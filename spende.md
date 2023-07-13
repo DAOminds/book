@@ -4,7 +4,7 @@ description: tue Gutes und erfahre Gutes
 
 # spende
 
-Dieses Publikation richtet sich an Individuen, welche den Zusammenhang zwischen gesellschaftlicher Entwicklungen, den aktuellen Herausforderungen und den möglichen Lösungen dafür verstehen wollen. Die Publikation fokussiert dabei auf Organisationsmodelle (DAOs) im Kontext mit traditionellen Organisationen. Da vieles in Bezug auf digitale autonome Organisationen relativ neu ist, bleibt einiges in dieser Publikation aus heutiger Sicht eine Hypothese.
+Dieses Publikation richtet sich an Individuen, welche den Zusammenhang zwischen gesellschaftlicher Entwicklungen, den aktuellen Herausforderungen und den möglichen Lösungen dafür verstehen wollen. Die Publikation fokussiert dabei auf Organisationsmodelle (DAOs) im Kontext mit traditionellen Organisationen. Da vieles in Bezug auf digitale autonome Organisationen relativ neu ist, bleibt einiges in dieser Publikation aus heutiger Sicht eine Hypothese. Du findest die Publikation natürlich auch in [github](https://github.com/DAOminds/book).
 
 Diese Publikation ist kostenlos, denn ich möchte meine Erkenntnisse mit dir teilen und frei zugänglich machen. Zudem weiss ich nicht wie hoch der Nutzen für dich sein wird, da ich in der Thematik selber in einem nicht enden wollenden Lernprozess stecke.
 
