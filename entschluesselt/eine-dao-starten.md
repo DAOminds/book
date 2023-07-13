@@ -20,7 +20,7 @@ Vor dem der „Gründung“ einer DAO denke ich macht es Sinn, über die 7 genos
 
 Ich schlage vor, dass diese sieben Grundsätze von jeder neu gegründeten oder bestehenden DAO übernommen werden sollten. Sie haben sich bewährt.
 
-#### Fehler der zu frühen Dezentralisierung (vor Start des DAO)
+### Fehler der zu frühen Dezentralisierung (vor Start des DAO)
 
 Einfach eine DAO anlegen weil es technisch spannend, oder das Umfeld spannend ist, kann es nicht sein. Bevor überhaupt eine DAO gestartet wird, sollte sichergestellt sein, dass die Bedingungen für einen Erfolg gegeben sind. Dies ist sehr ähnlich wie bei der Gründung eines Unternehmens.
 
@@ -34,11 +34,11 @@ Es sollte insbesondere geklärt werden:
 
 Der umgekehrte Fall kann ebenso fatal sein. Es wurde vielleicht nicht zu früh dezentralisiert, aber man hat es dann einfach vergessen oder es nicht gemacht.
 
-#### Aufruf zur DAO
+### Aufruf zur DAO
 
 Wenn du einfach nur eine DAO-Struktur um ihrer selbst willen gründen willst, könnte die Vorgehensweise in etwa so aussehen:
 
-**Aufruf zum Abenteuer , eine NFT oder NFT-Serie kreieren (on chain revenue)**
+#### **Aufruf zum Abenteuer , eine NFT oder NFT-Serie kreieren (on chain revenue)**
 
 Im Gegensatz zu Begriffen wie "Mission" oder "Vision" beschreibt ein Aufruf zum Abenteuer genauer, worauf sich die Teilnehmer mit einer DAO einlassen.  Natürlich geht es bei einem Beitritt um den Fortschritt in Richtung eines Ziels, aber der Weg, der vor uns liegt, ist besonders unklar und wirklich neu. Wer sich anmeldet, macht sich auf Widrigkeiten, potenzielles Scheitern und einen Kampf gegen die Widrigkeiten innerhalb von dynamischen und fluiden Strukturen gefasst.   Ein paar fantastische Aufrufe zum Abenteuer von DAOs:
 
@@ -46,7 +46,7 @@ Im Gegensatz zu Begriffen wie "Mission" oder "Vision" beschreibt ein Aufruf zum 
 * [GitCoin](https://daominds.io/extgitcoin), "digitale öffentliche Güter" aufbauen und finanzieren
 * [FWB](https://daominds.io/extfwb), das eine starke Präsenz an der Schnittstelle von Kultur und Krypto aufbaut
 
-**Eigentum verteilen, gib die NFTs an Fan’s (on chain community)**
+#### **Eigentum verteilen, gib die NFTs an Fan’s (on chain community)**
 
 Nachdem du die Aufmerksamkeit der wahren „Gläubigen“ gewonnen hast, müssen die DAOs die Eigentumsrechte verteilen.
 
@@ -62,7 +62,7 @@ Ein paar Beispiele dafür, wie verschiedene DAOs das Eigentum verteilt haben:
 * SuperRare verteilte $RARE-Token an Künstler und Sammler, die deren NFT-Plattform nutzten.
 * FWB verlangt von seinen Mitgliedern den Besitz von 75 $FWB-Tokens. Diese können auf Uniswap gekauft oder durch einen Zuschuss erhalten werden.
 
-**Steuerung der DAO ermöglichen, Snapshot starten + token gated discord channel starten (governance infrastruktur)**
+#### **Steuerung der DAO ermöglichen, Snapshot starten + token gated discord channel starten (governance infrastruktur)**
 
 Die Entscheidung darüber, wie die Gruppe Entscheidungen treffen soll, ist eine wichtige Phase des DAO-Gründungsprozesses. Die Gruppen, die diese Entscheidungen treffen, werden oft als "Governance-Strukturen" bezeichnet. Ein bedeutender Teil von web3 beschäftigt sich eifrig mit diesem Thema und untersucht ständig neue Methoden und Ansätze. Sogar Ethereum-Gründer Vitalik Buterin hat sich kürzlich zu diesem Thema geäussert.
 
@@ -81,7 +81,7 @@ Die DAO-Version von "wie ein Gesetzentwurf zu einem Gesetz wird" könnte etwa so
 
 Das Ziel der Governance ist es, gute Entscheidungen zu treffen und das Projekt voranzutreiben. Eine gute Governance stellt sicher, dass die Stimmen gehört werden, die Legitimität gewahrt bleibt und die Dynamik gefördert wird.
 
-**Anreize und Belohnung implementieren, Airdrop ERC-20 Token (governance to the people)**
+#### **Anreize und Belohnung implementieren, Airdrop ERC-20 Token (governance to the people)**
 
 DAOs koordinieren die Bemühungen um ein Ziel; Anreize treiben diese Bemühungen voran. Die ersten Belohnungen, die DAOs anbieten, sind in der Regel native Governance-Token, mit denen frühe Investoren oder Beteiligte Eigentum erhalten.
 
@@ -119,7 +119,7 @@ Die Teilnahme an einem aufstrebenden Modell wie einer DAO hat zwar ihre Herausfo
 
 Natürlich gilt es zu beachten, dass in Abhängigkeit der Art und Weise der DAO, die vorhergehende Vorgehensweise möglicherweise nicht korrekt ist.
 
-#### welches Framework soll ich einsetzen?
+### welches Framework soll ich einsetzen?
 
 Es gibt eine breite Anzahl an Frameworks und Tools um DAO zu starten- bzw. zu betreiben, hier eine nicht vollständige Auswahl:
 

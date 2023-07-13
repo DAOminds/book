@@ -10,7 +10,7 @@ Mit dieser neuen Art der Zusammenarbeit wird es notwendig, alle DAO-Mitglieder -
 
 Die Fähigkeiten, die hier beschrieben werden, basieren auf der Beobachtung, dass es bei der Arbeit in einer DAO um mehr geht als nur um die Erledigung von Aufgaben - im Kern geht es bei der Arbeit in einer DAO um die Verarbeitung grosser Mengen komplexer Informationen und die Erleichterung der menschlichen Zusammenarbeit in einer vollständig digitalen Arbeitsumgebung.
 
-#### die Mentale Fitness
+### die Mentale Fitness
 
 Wenn körperliche Fitness dir hilft, mit körperlichem Stress umzugehen und den Sports zu geniessen, dann erlaubt Ihnen geistige Fitness, die kognitiven, sozialen und emotionalen Stressfaktoren zu bewältigen, die mit der DAO-Arbeit einhergehen, während du den Nervenkitzel des Mitwirkens geniesst. Mentale Fitness eröffnet uns die Möglichkeit, mit uns selbst und den Menschen um uns herum in einer guten Beziehung zu stehen, und erweitert unsere Fähigkeit, uns an der ständig wachsenden Wissensarbeit des Web3 zu beteiligen. Es beginnt mit dem Training der kognitiven Fähigkeiten, der grundlegenden Ebene der geistigen Fitness. Diese Übungen verdrahten aktiv unsere neuronalen Bahnen neu. Wiederholungen bauen die Fitness unseres Gehirns durch Neuroplastizität auf. Die Beschäftigung mit dieser grundlegenden Ebene der geistigen Fitness kann die Qualität unserer Aufmerksamkeit und unseres Bewusstseins drastisch verbessern und letztlich unser Denken, unsere Analyse und unsere sozial-emotionale Verarbeitung am digitalen Arbeitsplatz verbessern.
 
@@ -29,7 +29,7 @@ Ein weiterer Punkt zur mentalen Fitness ist die sozial-emotionale Verarbeitung. 
 
 Die Pflege unserer mentalen Fitness ist eine Investition in unser zukünftiges Selbst, da wir die notwendigen Gewohnheiten, das Durchhaltevermögen und die Flexibilität aufbauen, um uns selbst zu geniessen und unser eigenes einzigartiges Potenzial als Mitarbeiter und darüber hinaus zu entwickeln.
 
-#### die Selbststeuerung
+### die Selbststeuerung
 
 Über einem starken Kern geistiger Fitness steht unsere Fähigkeit zur Selbststeuerung. Selbststeuerung, die Logik, die unsere täglichen Beiträge steuert: von der Festlegung unseres individuellen Ziels bis zur täglichen Priorisierungstaktik.
 
@@ -46,7 +46,7 @@ Die Pflege unserer mentalen Fitness ist eine Investition in unser zukünftiges S
   * Setze dir sowohl langfristige als auch kurzfristige Ziele und Erwartungen. Bewerte regelmässig, ob du deine Aufgaben erfüllt hast. Spreche die Blockaden klar aus und arbeiten daran, sie zu beseitigen.
 * Verbessere deine Fähigkeit, einen sinnvollen Beitrag im Einklang mit deinen Werten zu leisten; steigere das Gefühl der persönlichen Erfüllung durch deine Arbeit; verbessern deine Fähigkeit, Prioritäten zu setzen und den kürzesten Weg zu deinen täglichen Zielen zu finden.
 
-#### die Vereinfachung
+### die Vereinfachung
 
 Das Wort „Vereinfachung“ bedeutet wörtlich übersetzt "eine Handlung (oder einen Prozess) einfach oder leichter machen; helfen, etwas zu bewirken". Diese Philosophie steht im Mittelpunkt von sich selbst verwaltenden Organisationen, in denen die meisten relevanten Ergebnisse emergent sind.
 

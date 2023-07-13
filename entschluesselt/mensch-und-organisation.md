@@ -12,7 +12,7 @@ Wenn wir gute Arbeit leisten, bleibt sie innerhalb unserer Bedürfnisse und Norm
 
 Sich daran zu erinnern, dass wir Menschen ein Teil des Systems sind, ist ein wirklich wichtiger Teil des Aufbaus und der Pflege von DAOs.
 
-#### Das Prinzip DAO first
+### Das Prinzip DAO first
 
 * vom ersten Tag an etwas dezentralisiert, nach und nach dezentraler
 * Die Gemeinschaft steht an erster Stelle und ermöglicht es der Kerngemeinschaft, ein Mitspracherecht und einen Einfluss auf die Produkte zu haben.
@@ -60,7 +60,7 @@ Tendenziell sind DAOs gut in der Dezentralisierung (D) sowie im Autonomous (A), 
 * Eine dysfunktionale Organisation wird zu unzureichenden Ergebnissen führen, während eine Organisation, die harmonisch funktioniert, unglaubliche Leistungen erbringen wird. Wenn wir weiter auf DAOs aufbauen und immer mehr Knotenpunkte hinzufügen, wollen wir sozusagen die menschliche Anatomie oder die Biosphäre verkörpern, denn diese Systeme werden immer komplexer und bringen immer mehr wert mit sich, und sie versinken nicht einfach im totalen Chaos. Gleichzeitig bietet dieses produktive Chaos eine erstaunliche Möglichkeit, die Kommunikation zu verbessern. Die schiere innovation und der Ansatz einer DAO in diesem Bereich geben uns ein erstaunliches Potenzial.
 * Weg von Monokulturen hin zu digitalen Kulturen mit einer aktiven Partizipation und der produktiven Zusammenarbeit
 
-#### Bedürfnisse, Fähigkeiten und Aktivitäten
+### Bedürfnisse, Fähigkeiten und Aktivitäten
 
 Wie geht es jetzt weiter? Was kann ich tun um das Umfeld zu verstehen? Mit dem lesen diese Publikation machst du bereits einen Schritt. Aber ich denke nicht, das es hier aufhören darf. In diesem Umfeld tätig zu werden hat viel damit zu tun, über dich selber nachzudenken. Viele der Gewohnheiten, der Ansichten und der Prinzipen müssen über Bord geworfen werden. Es ist mindestens mir so ergangen, was nicht heisst das es bei dir ähnlich sein muss. Es geht sicherlich auch darum, deine eigenen Rolle in diesem „Universum“ zu finden.
 
