@@ -12,9 +12,10 @@ Deine freiwillige Spende ist jederzeit willkommen und ich danke Dir von Herzen d
 
 
 
-![](<.gitbook/assets/Screenshot 2023-07-12 at 10.20.22 (2).png>) bitcoin
-
-![](<.gitbook/assets/Screenshot 2023-07-12 at 10.21.24 (1).png>) ethereum
+| bitcoin                                                          | ethereum                                                         |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![](<.gitbook/assets/Screenshot 2023-07-12 at 10.21.24 (1).png>) | ![](<.gitbook/assets/Screenshot 2023-07-12 at 10.20.22 (2).png>) |
+| bc1q8754j09aq0qjd0smcqc0zj3rerxqseykz4a3dq                       | 0x7EE847cd2d18Aaf9Bc193E2E07342988b38FaF6e                       |
 
 
 
