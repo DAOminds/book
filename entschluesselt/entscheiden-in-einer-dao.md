@@ -26,15 +26,15 @@ Dezentralisierte Entscheidungsfindung ist schwierig. Bis heute gibt es keine kla
 | <p>autonome</p><p>aggregierte Ausführung</p>                                       | Autonomer Kult                                                                     | aufstrebende DAO                                                               |
 | <p>autonome</p><p>gemeinsame Ausführung</p>                                        | <p>sozial/kulturell<br>gefangener DAO</p>                                          | DAO                                                                            |
 
-#### Signal Voting
+### Signal Voting
 
 Beim Signal Voting signieren Token-Inhaber ihre Stimmen mit dem öffentlich-privaten Schlüsselpaar. Auf diese Weise kann jeder, der eine Liste der signierten Stimmen hat, die Signatur überprüfen, sehen, dass er Token auf der Blockchain hat, und die Stimmen zusammenzählen. Normalerweise werden die Stimmen bei der Signalabstimmung nach Token gewichtet, d. h. die Wähler erhalten eine Stimme pro Token. Die Signalabstimmung erfolgt nicht auf der Blockchain direkt, was bedeutet, dass diese kostenlos ist. Das bedeutet aber auch, dass die Abstimmung selbst keinen Einfluss auf die Blockchain hat. Projekte brauchen einen anderen Baustein, um das Ergebnis einer Abstimmung zu übernehmen und die Dinge auf der Blockchain zu ändern. Wichtig ist, dass das Signieren von Nachrichten ausserhalb der Blockchain nicht garantiert, dass alle anderen die Nachricht sehen können. Die Signalabstimmung hängt von einem Server wie [Snapshot](https://daominds.io/extsnapshot) oder einem Peer-to-Peer-Broadcast-Netzwerk wie libp2p ab, um Abstimmungen zu übertragen.
 
-#### On-Chain Voting
+### On-Chain Voting
 
 Eine On-Chain-Abstimmung ist das, wonach es klingt. Token-Besitzer können im Verhältnis zu ihrem Token-Guthaben Vorschläge erstellen und darüber abstimmen. Die Stimmen werden auf die Blockchain übertragen, so dass ein Governance-Smart-Contract die Stimmen zusammenzählen und bestimmen kann, welche Vorschläge angenommen werden. Governor Alpha von [Compound](https://daominds.io/extcompound) gilt für viele Projekten als sinnvoller Ansatz. Die On-Chain-Abstimmung kostet Geld. Die Hypothese ist, das wenn man für eine Simse bezahlt, wird das System sicherer und dezentraler. Die Governance ist in diesem Fall nicht auf eine dritte Partei angewiesen, um die Stimmen zu übermitteln, da die Verfügbarkeit auf der Blockchain selbst sichergestellt ist.
 
-#### Multisig Admin
+### Multisig Admin
 
 Multisigs gab es schon, bevor es Blockchains überhaupt gab. Bei einer Multisig teilt sich eine feste Anzahl von Adressen die Verwaltungsbefugnis, ähnlich wie die Regeln in einem Handelsregister. Eine Teilmenge von ihnen - z. B. 3 von 5, alle 4 von 4 oder sogar 1 von 2 - hat die Befugnis, Entscheide zu fällen. Das Gnosis-Team hat Safe entwickelt, einen weit verbreiteten und erprobten Smart Contract, der Multisigs beliebiger Grösse auf Ethereum implementiert. Dieser Vertrag wird häufig für die Verwaltung von Protokollverträgen und On-Chain-Schatzkammern verwendet.
 
@@ -49,15 +49,18 @@ Multisigs gab es schon, bevor es Blockchains überhaupt gab. Bei einer Multisig 
 | Geschwindigkeit               | Tage                 | Tage                               | Sofort                               |
 | Stärke                        | Kostenlos            | Sicher                             | Schnell                              |
 
-#### Kombination der Ansätze
+### Kombination der Ansätze
 
-**Signal Voting + Admin-Multisig = Snapshot** \
+#### **Signal Voting + Admin-Multisig = Snapshot** 
+
 Vielleicht kennen Sie Snapshot, ein beliebtes Tool für Projekte, um ihre Verwaltung zu steuern. Da das Tool auf Signalabstimmung basiert, kann jeder Token-Inhaber kostenlos auf Snapshot abstimmen. Wie erwähnt, wird bei der Signalabstimmung nichts auf der Blockchain ausgeführt. Normalerweise hängen Snapshot-Abstimmungen von einem Admin-Multisig ab, um den Willen der Wähler auf der Blockchain genau und prompt auszuführen. Kürzlich kündigte Snapshot an, dass sie das [reality.eth Orakel](https://daominds.io/extrealityoracle) verwenden werden, um die Vorschläge auf der Kette auszuführen.
 
-**Signal Voting + On-Chain-Abstimmung = Lebenszyklus von der Idee zum Vorschlag** \
+#### **Signal Voting + On-Chain-Abstimmung = Lebenszyklus von der Idee zum Vorschlag** 
+
 Radicle ist eines der vielen Projekte, die einen Vorschlagslebenszyklus mit Signalabstimmung und On-Chain-Abstimmung verwenden. Im Fall von Radicle wird Snapshot als unverbindlicher Temperatur-Check verwendet, um zu sehen, welche Ideen Unterstützung zu haben scheinen. Sobald eine Idee den Temperatur-Check bestanden hat, können die Mitglieder der Radicle-Community die Idee in ihren Foren zu einem formellen Vorschlag verfeinern. Schliesslich reichen sie den Vorschlag als ausführbaren Code zur Abstimmung auf Radicle Governor Alpha ein. Dieser Lebenszyklus nutzt den kostenlosen Schritt - die Signalabstimmung - um es einfach zu machen, neue Ideen einzubringen, und nutzt den teuren, aber sicheren Schritt - die On-Chain-Abstimmung - um den Vertrag und die Kasse sicher zu halten.
 
-**On-Chain-Abstimmung + Admin-Multisig = Übertragung von Befugnissen an einen Ausschuss**\
+#### **On-Chain-Abstimmung + Admin-Multisig = Übertragung von Befugnissen an einen Ausschuss**
+
 Sowohl Uniswap als auch Compound haben vor kurzem On-Chain-Abstimmungen durchgeführt, um Ausgabenbefugnisse an die Multisigs zu delegieren. Uniswap schlug das Uniswap-Zuschussprogramm (Grants Program) vor, und Compound folgte kurz darauf mit dem Compound-Zuschussprogramm. Nach ihrer Verabschiedung finanzierten diese Vorschläge jeweils eine Multisig, deren Aufgabe es ist, die Arbeit im Ökosystem des jeweiligen Projekts zu finanzieren.
 
 Viele Ideen und Ansätze befinden sich aktuell in der Konzept- oder Umsetzungsphase. Es ist davon auszugehen, dass in dieser Thematik noch vieles passieren wird.

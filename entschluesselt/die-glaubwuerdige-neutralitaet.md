@@ -23,7 +23,7 @@ Ein paar Beispiele:
 
 Wir treten in ein hypervernetztes, hypervermitteltes und sich rasch entwickelndes Informationszeitalter ein, in dem zentralisierte Institutionen das öffentliche Vertrauen verlieren und die Menschen nach Alternativen suchen. Daher werden verschiedene Formen von Mechanismen - als eine Möglichkeit, die Weisheit der Massen intelligent zu bündeln für die Art und Weise, wie wir interagieren, wahrscheinlich immer wichtiger werden.
 
-#### was ist glaubwürdige Neutralität?
+### was ist glaubwürdige Neutralität?
 
 Im Wesentlichen ist ein Mechanismus dann glaubwürdig und neutral, wenn allein durch die Betrachtung des Mechanismusdesigns leicht zu erkennen ist, dass der Mechanismus keine bestimmten Menschen diskriminiert. Der Mechanismus behandelt jeden fair, soweit es möglich ist, Menschen in einer Welt, in der die Fähigkeiten und Bedürfnisse aller so unterschiedlich sind, fair zu behandeln. "Jeder, der einen Block schürft, bekommt 2 ETH" ist glaubwürdig neutral, "Bob bekommt 1000 Münzen, weil wir wissen, dass er eine Menge Code geschrieben hat und wir ihn belohnen sollten" ist es nicht. "Jeder Beitrag, den fünf Leute als schlecht bezeichnen, wird nicht gezeigt" ist glaubwürdig neutral, "jeder Beitrag, den unser Moderationsteam als voreingenommen gegenüber blauäugigen Menschen einstuft, wird nicht gezeigt" ist es nicht. "Die Regierung gewährt ein auf 20 Jahre begrenztes Monopol auf jede Erfindung" ist glaubwürdig neutral (obwohl es schwierig ist, zu bestimmen, welche Erfindungen dafür in Frage kommen), "die Regierung beschliesst, dass die Heilung von Krebs wichtig ist, und ernennt daher einen Ausschuss, der 1 Milliarde Dollar an Menschen verteilt, die versuchen, Krebs zu heilen" ist es nicht.
 
@@ -35,27 +35,27 @@ Beachte, dass hier nicht nur Neutralität gefragt ist, sondern glaubwürdige Neu
 
 Was wir also brauchen, ist so etwas wie ein spieltheoretisches Konzept des gemeinsamen Wissens - oder, weniger mathematisch ausgedrückt, eine weithin geteilte Vorstellung von Legitimität. Um diese Art von Allgemeinwissen über die Neutralität zu erreichen, muss die Neutralität des Mechanismus sehr leicht zu erkennen sein - so leicht zu erkennen, dass selbst ein relativ ungebildeter Beobachter sie erkennen kann, selbst angesichts einer feindseligen Propaganda, die den Mechanismus als voreingenommen und unglaubwürdig erscheinen lässt.
 
-#### der Aufbau glaubwürdiger und neutraler Mechanismen
+### der Aufbau glaubwürdiger und neutraler Mechanismen
 
 Es gibt vier Grundregeln für die Entwicklung eines glaubwürdigen neutralen Mechanismus:
 
-**schreibe keine bestimmten Personen oder Ergebnisse fest**
+#### **schreibe keine bestimmten Personen oder Ergebnisse fest**
 
 Erinnern wir uns. Jeder, der einen Block schürft, erhält 2 ETH" ist glaubwürdig neutral, "Bob erhält 1000 Münzen" ist es nicht. "Downvotes bedeuten, dass ein Beitrag weniger angezeigt wird" ist glaubwürdig neutral, "Vorurteile gegen blauäugige Menschen bedeuten, dass ein Beitrag weniger angezeigt wird" ist es nicht. "Bob" ist eine bestimmte Person, und "Vorurteile gegenüber blauäugigen Menschen" ist ein bestimmtes Ergebnis. Natürlich kann Bob wirklich ein grossartiger Entwickler sein, der wirklich wertvoll für den Erfolg eines Blockchain-Projekts war und eine Belohnung verdient hat, und Vorurteile gegen Blauäugige sind sicherlich eine Idee, die ich und hoffentlich auch du nicht in den Vordergrund rücken wollen. Aber bei der Gestaltung glaubwürdig neutraler Mechanismen ist das Ziel, dass diese gewünschten Ergebnisse nicht in den Mechanismus hineingeschrieben werden, sondern sich aus den Handlungen der Teilnehmer ergeben. In einem freien Markt wird die Tatsache, dass Charlies Widgets nicht nützlich sind, während Davids Widgets nützlich sind, durch den Preismechanismus entdeckt: Schliesslich hören die Leute auf, Charlies Widgets zu kaufen, so dass er bankrott geht, während David einen Gewinn erzielt und expandieren und noch mehr Widgets herstellen kann. Die meisten Informationen in der Ausgabe sollten von den Eingaben der Teilnehmer stammen, nicht von fest kodierten Regeln innerhalb des Mechanismus selbst.
 
-**sorge für Transparenz und für eine öffentlich überprüfbare Ausführung**
+#### **sorge für Transparenz und für eine öffentlich überprüfbare Ausführung**
 
 Die Regeln des Mechanismus sollten öffentlich sein, und es sollte möglich sein, öffentlich zu überprüfen, ob die Regeln korrekt ausgeführt werden. Beachte, dass du in vielen Fällen nicht willst, dass die Eingaben oder Ausgaben öffentlich sind. Natürlich ist es ist nicht immer sinnvoll, eine vollständige Transparenz zu leben. Glücklicherweise kann Verifizierbarkeit und Datenschutz gleichzeitig mit einer Kombination aus „Zero-Knowledge-Proofs“ und Blockchains erreicht werden.
 
-**halte den Mechanismus einfach**
+#### **halte den Mechanismus einfach**
 
 Die Idee der Einfachheit, ist ironischerweise die am wenigsten einfache. Je einfacher ein Mechanismus ist und je weniger Parameter er hat, desto weniger Raum gibt es, um versteckte Privilegien für oder gegen eine bestimmte Gruppe einzuführen. Wenn ein Mechanismus fünfzig Parameter hat, die auf komplizierte Weise interagieren, dann ist es wahrscheinlich, dass man für jedes gewünschte Ergebnis Parameter finden kann, die dieses Ergebnis erreichen werden. Wenn ein Mechanismus jedoch nur einen oder zwei Parameter hat, ist dies viel schwieriger.
 
-**ändere den Mechanismus nicht zu oft**
+#### **ändere den Mechanismus nicht zu oft**
 
 Das Ändern des Mechanismus ist geprägt von Komplexität und es setzt leider auch das Wissen über den Mechanismus zurück, was dir die Möglichkeit gibt, den Mechanismus so anzupassen, dass er deine speziellen Freunde begünstigt und deine speziellen Feinde angreift, und zwar mit den aktuellsten Informationen darüber, in welcher einzigartigen Position sich diese Gruppen befinden und wie sich verschiedene Anpassungen des Mechanismus auf sie auswirken würden.
 
-#### neben der Neutralität ist die Wirksamkeit wichtig
+### neben der Neutralität ist die Wirksamkeit wichtig
 
 Ein häufiger Trugschluss der extremeren Versionen der Ideologien, ist eine Art Neutralitätsmaximalismus: Wenn es nicht völlig neutral gemacht werden kann, sollte es überhaupt nicht gemacht werden! Das ist ein Trugschluss, welcher darin besteht, dass diese Sichtweise Neutralität im engeren Sinne auf Kosten der Neutralität im weiteren Sinne erreicht. Man kann zum Beispiel garantieren, dass jeder Miner die gleichen Chancen hat wie jeder andere Miner (12,5 BTC oder 2 ETH pro Block), und dass jeder Entwickler die gleichen Chancen hat wie jeder andere Entwickler (ohne eine Vergütung, die über den Dank für den öffentlichen Dienst hinausgeht), aber was man opfert, ist, dass die Entwicklung im Vergleich zum Mining stark unterincentiviert wird. Es ist unwahrscheinlich, dass die letzten 20 % der Miner mehr zum Erfolg einer Blockchain beitragen als ihre Entwickler, und doch scheinen die derzeitigen Vergütungsstrukturen genau das zu implizieren. Allgemeiner gesprochen gibt es in der Gesellschaft viele Arten von Dingen, die produziert werden müssen: private Güter, öffentliche Güter, genaue Informationen, gute Regierungsentscheidungen, Güter, die wir jetzt nicht schätzen, aber in Zukunft schätzen werden, und so weiter; die Liste geht weiter. Für einige dieser Dinge ist es einfacher, glaubwürdige neutrale Mechanismen zu schaffen als für andere. Und wenn wir einen kompromisslosen, engstirnigen Neutralitätspurismus annehmen, der besagt, dass nur extrem glaubwürdig-neutrale Mechanismen akzeptabel sind, dann werden nur die Probleme gelöst, für die solche Mechanismen leicht zu schaffen sind.&#x20;
 

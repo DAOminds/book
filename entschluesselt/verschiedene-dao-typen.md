@@ -6,7 +6,7 @@ description: ihre jeweiligen Anwendungen und Potenziale
 
 Heute gibt es mehr als [210 DAOs, die ein Vermögen von über 18 Milliarden](https://daominds.io/extdeepdaodashboard) Dollar verwalten. Und zum Zeitpunkt an welchem du das liest, stimmt diese Aussage sicherlich nicht mehr. Ich versuche nachfolgende die verschiedenen Typen von DAOs zu typisieren.
 
-#### DAO Operating Systems
+### DAO Operating Systems
 
 DAO Operation Systems sind eine Art „Betriebssysteme“, mit denen DAOs erstellt werden können. Diese Projekte bieten verschiedene Frameworks, Vorlagen und Tools für Gemeinschaften, um Ressourcen zu bündeln und ihre erste DAO zu starten. Sie bieten in der Regel Smart Contracts und Schnittstellen an, um die Aktionen auf der Blockchain für dezentrale Gemeinschaften zu erleichtern. DAO Operation Systems machen es für jeden einfach, eine DAO mit begrenzten technischen Kenntnissen zu starten.
 
@@ -40,7 +40,7 @@ NFTs. Du hast sicher schon von NFTs gehört - und eine Zeit lang konntest du sie
 
 In einem Zeitalter, in dem Informationen global zugänglich sind, sollte dies auch für die Narrative gelten, über die sie verbreitet werden. Medien-DAOs geben diese Macht an diejenigen zurück, die die Inhalte konsumieren. Sie brechen die Art und Weise auf, wie Autoren, Streamer und Leser mit den von ihnen veröffentlichten Inhalten umgehen. Ob es sich um Media-Mining-Programme handelt, um Anreize für Beiträge zu schaffen, oder um die Kontrolle darüber, welche Themen es auf die Titelseite schaffen, Media DAOs machen den Konsum zu einer Zwei-Wege-Strasse. Medien-DAOs teilen die offene Agenda eines Unternehmens, um Bewusstsein und Nachrichten zu verbreiten.
 
-#### DAO Landkarte
+### DAO Landkarte
 
 Nachfolgend eine grobe Übersicht über verschiedenen Projekte, aggregiert nach Typ des DAO’s.
 
