@@ -8,15 +8,17 @@ description: >-
 
 Es wird wohl niemand behaupten, dass was wir aktuell auf diesem Planeten erleben, was unabhängig der Covid-Krise auf diesem Planeten passiert, nachhaltig, gesund und vor allem Zukunftsfähig ist. Die Menschheit sieht sich vielen Herausforderungen gegenüber. Sei dies die Finanzwirtschaft, dem Klima oder vielschichtigen politischen Herausforderungen. Dabei ginge es doch eigentlich um die Frage, was ist erstrebenswert, wofür lohnt es sich einzustehen und was sind Elemente welche diese Ideale stören.
 
-#### Der Geld-Defekt
+### Der Geld-Defekt
 
-**Wenn das Geld kaputt ist, wird alles zu Geld.** Wir erleben die Ausläufer eines grossen Experiments in welchem die Frage gestellt wurde:
+#### **Wenn das Geld kaputt ist, wird alles zu Geld.**&#x20;
+
+Wir erleben die Ausläufer eines grossen Experiments in welchem die Frage gestellt wurde:
 
 * wie hoch lässt sich die Zeitpräferenz der Menschen treiben?
 * wie viel sinnloser Konsum ist möglich?
 * wie schnell kann sich das Hamsterrad drehen?
 
-**Eine Frage der Zeitpräferenz**
+#### **Eine Frage der Zeitpräferenz**
 
 Zeitpräferenz ist eines dieser scheinbar schwierigen ökonomischen Konzepte, welches in Wahrheit aber sehr simpel ist. Menschen mit hoher Zeitpräferenz leben im Hier und Jetzt. Sie geben ihr Geld aus, konsumieren auf Teufel komm raus – und ziehen diesen Konsum vielleicht sogar mit Krediten vor.
 
@@ -28,7 +30,7 @@ Es scheint so, als wolle auf diesem Planten Vorderhand alles unter einer hohen Z
 
 Andere behaupten, dass wir aktuell die grösste Umwälzung von Werten- und Vermögen erleben. Der „normale“ wird auf der Zeitachse laufend enteignet. Vieles was heute passiert ist nicht nachhaltig. Wie mit Geld umgegangen wird, ist schlecht und auch eine Umwelt leidet unter schlechtem Geld.
 
-**Was ist eigentlich Geld?**
+### **Was ist eigentlich Geld?**
 
 Geld ist ein allgemein anerkanntes Tausch- und Zahlungsmittel, auf welches sich eine Gesellschaft verständigt hat. Die allgemeine Definition ist, dass Geld ein akzeptiertes Tausch- und Zahlungsmittel ist und dem Austausch und dem Erwerb von Gütern und Dienstleistungen dient. Es ist auch Wert- und Preismassstab sowie Recheneinheit, indem es der Bewertung und dem Vergleich der Güter und Leistungen dient.
 
@@ -38,7 +40,7 @@ Es wäre auch vorgesehen, dass Geld als Wertspeicher dient. Ich verstehe zwar di
 
 > « Geld ist Macht so einfach ist das, wir alle haben Einfluss darauf, ob Macht zentral und konzentriert- oder aber dezentral und verteilt gelebt wird, setzt dich für innovative dezentralisierte Lösungen ein »
 
-#### Der Internet-Defekt
+### Der Internet-Defekt
 
 Warum schreibe ich hier vom Internet-Defekt. Ich betrachte Daten als ebenso relevanter „Wert“ ähnlich wie es Geld oder Vermögen darstellt. Daten gelten ja allgemein als das Gold des 21. Jahrhunderts. Daten sind wertvoll, insbesondere dann, wenn mit Daten von anderen Geld verdient werden kann.
 
@@ -57,23 +59,23 @@ Auf mehrere Milliarden wird der weltweite Wert des aktuellen Datenhandels gesch�
 
 > « Daten ist Macht so einfach ist das, wir alle haben Einfluss darauf, ob Macht zentral und konzentriert- oder aber dezentral und verteilt gelebt wird, überleg dir gut wem du deinen Daten anvertraust und stell sicher, dass deine Privatsphäre gewährleistet ist »
 
-**wir haben keine Kontrolle über unsere eigenen Daten**
+#### **wir haben keine Kontrolle über unsere eigenen Daten**
 
 Nehmen wir das Beispiel einer eMail. Es gibt immer eine Kopie dieser eMail im eigenen Postfach auf irgend einem System. Ob und wie diese verschlüsselt sind- und ob die darin enthaltenen Informationen in irgend einer Weise weiterverwendet werden, ist nicht immer klar. Wir haben in den letzten Jahrzehnten Computer über Netzwerke verbunden, leben aber fast ausnahmslos das Prinzip einer zentralen Datenspeicherung.
 
-**fehlende Sicherheit im Protokoll**
+#### **fehlende Sicherheit im Protokoll**
 
 Die heute genutzten Internet-Protokolle haben in ihrem Basis Layer (Layer 0) keine eingebaute Sicherheits-Features. Erst der Anwendungs-Layer bringt Sicherheits-Features. Das Problem ist also, dass ich erst mit einem vertrauensvollen Anbieter eine eingebaute Sicherheit in den Lösungen erhalte. Standardmässig wird nichts was ich tue, auch nur Ansatzweise geschützt.
 
-**fehlender Settlement-Layer im Protokoll**
+#### **fehlender Settlement-Layer im Protokoll**
 
 Die heute genutzten Internet-Protokolle beinhalten auch keinen Möglichkeit interne Bezahlmöglichkeiten zu nutzen. eCommerce Anwendungen bzw. Bezahlmöglichkeiten sind nicht im Basis-Layer eingebaut. Das heisst es gibt immer eine Asymmetrie zwischen Information- und Wert und ich brauche immer eine gewisse Komplexität an Lösungen um eine Transaktion bestehend aus z.B. Information- und Bezahlung zu nutzen.
 
-**die Überreste der letzten Jahrzehnte Internet**
+#### **die Überreste der letzten Jahrzehnte Internet**
 
 Das wäre an Sich nicht ein Problem, wenn wir denn gewillt wären, neue Erkenntnisse und Methoden zu implementieren. Die Technologien sind mittlerweile da um wertvolle Daten im Interesse des Urhebers zu managen. Viele Unternehmen welche gerade mit- oder besser durch Daten Geld verdienen sind natürlich nur partiell daran Interessiert solche Technologien einzusetzen, insbesondere dann, wenn diese zu einer Verteilung des Werts „Daten“ führen und deren Geschäftsmodelle disruptiert werden.
 
-#### der Politik-Defekt
+### der Politik-Defekt
 
 Ob Vorratsdatenspeicherung, Staatstrojaner, automatische Gesichtserkennung, Nutzerverifzierung oder Bestandsdatenauskunft, in den vergangenen Jahren gab es kaum einen Überwachungswunsch der Sicherheitsbehörden, der nicht von den Innenministern gesetzlich umgesetzt werden wollte. Ich beziehe mich hier vor allem auf die Entwicklungen in der EU bzw. in Deutschland.
 
