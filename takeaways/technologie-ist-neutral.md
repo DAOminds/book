@@ -6,7 +6,7 @@ description: betont die Bedeutung unserer Interaktion und Nutzung von Technologi
 
 Du kennst die Szene, eine Familie sitzt im Restaurant, während des gesamten Essens spielt ein Kind pausenlos am Smartphone, während die Eltern pausenlos auf deren Smartphone schauen und das Kind quasi ignorieren.
 
-#### das Beispiel Smartphone
+### das Beispiel Smartphone
 
 Wir können nun den Erfindern des Smartphone die Schuld geben, aber wie war das den? Technologie ist an sich neutral. Das Smartphone kratzte an einem in der Gesellschaft vorhandenen Bedürfnis. Wir müssen alles wissen, mit jedem in Kontakt sein, überall gleichzeitig sein. Es ist ein Alleskönner, der auf seine Art und Weise wunderbar ist. Warum fürchten sich heutzutage so viele Menschen davor, dass wir unser ganzes Leben unseren Smartphones überlassen haben?
 
@@ -22,7 +22,7 @@ Einige fangen an, das zu begreifen. Das ganze hat nichts mit der Technologie zu 
 
 Die Anbieter von Informationsdiensten versuchen, dein inneres Selbst aus dir herauszuholen. Das können wir ihnen nicht verübeln. Es liegt an uns, uns dagegen zu wehren und uns wie Erwachsene zu verhalten.
 
-#### auf die richtige Anwendung der Technologie kommt es an
+### auf die richtige Anwendung der Technologie kommt es an
 
 Um es fassbarer zu machen. Ein Kernkraftwerk und eine Atombombe funktionieren natürlich nicht identisch. Dennoch basieren sie beide auf dem Prinzip der Kernspaltung. Die Atombombe wäre dann die negative, das Kernkraftwerk die positive Nutzung einer Technologie.
 
