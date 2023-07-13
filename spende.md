@@ -13,7 +13,8 @@ Deine freiwillige Spende ist jederzeit willkommen und ich danke Dir von Herzen d
 
 
 {% hint style="info" %}
-[**bitcoin**](https://www.blockchain.com/explorer/addresses/btc/bc1q8754j09aq0qjd0smcqc0zj3rerxqseykz4a3dq)\
+**bitcoin**\
+\
 ![](<.gitbook/assets/Screenshot 2023-07-12 at 10.21.24 (1).png>) `bc1q8754j09aq0qjd0smcqc0zj3rerxqseykz4a3dq`
 
 
@@ -21,6 +22,7 @@ Deine freiwillige Spende ist jederzeit willkommen und ich danke Dir von Herzen d
 
 {% hint style="info" %}
 **ethereum**\
+\
 ![](<.gitbook/assets/Screenshot 2023-07-12 at 10.20.22 (2).png>) `0x7EE847cd2d18Aaf9Bc193E2E07342988b38FaF6e`\
 
 {% endhint %}
