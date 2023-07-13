@@ -26,7 +26,7 @@ Obwohl die **Ownership Economy** heute vor allem im Crypto-Umfeld verbreitet ist
 
 Eine Ownship Economy steht leider aber im Mitbewerb mit den primären Treibern der Staaten- aber auch der Kapitalisten. Sowohl die Staaten- aber auch die Kapitalisten wollen konzentrieren bzw. zentralisieren. Lerne Reichtum zu produzieren und lerne ihn zu verteilen, und du wirst materielle- und moralische Grösse zusammen haben, ein Zitat von Victor Hugo.
 
-#### die nächste Generation der Ownship Economy
+### die nächste Generation der Ownship Economy
 
 Die Ownship Economy bedeutet nicht immer eine buchstäbliche Verteilung von Token, Aktienoptionen oder Aktien. Sie bedeutet auch nicht unbedingt, dass eine Anwendung oder ein Dienst vollständig auf einer Blockchain aufgebaut ist. Vielmehr bedeutet es, dass Eigentum - das sich in Form neuartiger wirtschaftlicher Belohnungen, Plattform-Governance oder neuer Formen von sozialem Kapital manifestieren kann - ein neuer Grundpfeiler von Nutzererfahrungen sein kann, mit viel Gestaltungsspielraum zum Erkunden.
 
@@ -46,7 +46,7 @@ Andere Plattformen wie Bird und Dumpling geben der Gig-Economy einen neuen Dreh,
 
 Es ist nicht verwunderlich, dass Erzählungen über die persönliche wirtschaftliche Befähigung im Internet heute mehr Anklang finden denn je. So wie die Hürden für die berufliche Produktivität im Internet drastisch gesunken sind, so sind auch die Hürden gefallen, die früher eine gerechte und sichere Verteilung des wirtschaftlichen Wertes verhindert haben.
 
-#### stellen wir uns ein Frage
+### stellen wir uns ein Frage
 
 Nach den Lehren von Friedman (1970) besteht die soziale Verantwortung der Unternehmen darin, die Gewinne zu steigern. Ich widerspreche diesem Satz wenn teilweise. Natürlich muss ein Unternehmen Gewinne machen, die Frage ist eher was macht das Unternehmen damit? Und weiter, kann ich mich ja nicht einfach auf eine Zahl fokussieren, diese ist nur ein Ergebnis dessen, was ich als Unternehmen tue.
 

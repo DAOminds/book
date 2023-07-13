@@ -26,7 +26,7 @@ DAOs oder „Distributed Autonomous Organizations“ sind de facto „Genossensc
 * Im Jahr 2018 feierte Japan den Geburtstag von Toyohiko Kagawa, dem Vater der japanischen Genossenschaftsbewegung. Er gründete 1921 die Co-op Kobe, die schliesslich auf über 65 Millionen Mitglieder mit einem Jahresumsatz von 135 Milliarden Dollar anwuchs.
 * In dem 2020 erschienenen Buch "Corporate Rebels" von Joost Minnaar haben die Autoren mit Ehrfurcht und mit einigen Überschneidungen zu Laloux' Arbeit zahlreiche detaillierte Beispiele von Organisationen untersucht, die wirklich anders gedacht und wunderschöne dezentralisierte und verteilte Organisationen geschaffen haben.
 
-#### Was ist ein Genossenschaftsmodel
+### Was ist ein Genossenschaftsmodel
 
 Die International Cooperative Alliance ("ICA") hat die Definition einer Genossenschaft wie folgt erweitert: "Genossenschaften sind auf den Menschen ausgerichtete Unternehmen, die sich im gemeinsamen Besitz ihrer Mitglieder befinden und von ihnen und für sie demokratisch kontrolliert werden, um ihre gemeinsamen sozioökonomischen Bedürfnisse und Bestrebungen zu verwirklichen. Als Unternehmen, die auf Werten und Grundsätzen beruhen, stellen sie Fairness und Gleichheit an die erste Stelle und ermöglichen es den Menschen, nachhaltige Unternehmen zu schaffen, die langfristig Arbeitsplätze und Wohlstand schaffen. Genossenschaften werden von Erzeugern, Nutzern oder Arbeitnehmern verwaltet und nach der Regel 'ein Mitglied, eine Stimme' geführt".
 
@@ -40,11 +40,11 @@ Wenig von den operativen Aspekten dessen, was wir heute als DAO bezeichnen, ist 
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>what constitutes in a DAO</p></figcaption></figure>
 
-Organisationen heute
+### Organisationen heute
 
 Traditionell ist eine Unternehmensstruktur der effektivste marktwirtschaftliche Ansatz, um Talente für ein bestimmtes Ziel zu rekrutieren. Diese Arbeitskräfte werden in der Regel durch Löhne gelockt und kontrolliert. Die Organisationen heute sind zentralisiert und interagieren mit anderen Organisationen. Es sind hierarchische Organisation, meist Top-Down gesteuert, klassische wie eine Pyramide. Die Beziehungen sind über bilaterale „Verträge“ miteinander geregelt. Welche Entscheide darf ich fällen, welche Aufgaben habe ich etc. Organisation wiederum leben untereinander Verträge. Wenn wir „per Default“ vertrauen würden, dann würde es diese „Verträge“ gar nicht brauchen.
 
-#### Organisationen Zukunft
+### Organisationen Zukunft
 
 Nun denn, die Dezentrale autonome Organisation DAO, Bitcoin ist ein Beispiel dafür. Die Teilnehmer einer DAO sind Unterschiedliche Netzwerkakteure (Miner, Walltet-Nutzer, Entwickler, Exchanges) welche unterschiedliche Rollen und Rechte im System haben. Der Vertrag bzw. die Spielregeln stehen im Protokoll und sind für alle Transparent > sofern sie denn dieses Protokoll verstehen. D.h. die Spielregeln sind transparent und allen zugänglich, so ähnlich wie in einer Verfassung. Jeder kann ohne Einwilligung (permissionless) am System partizipieren, sofern er bereit ist, die Regeln der DAO zu akzeptieren. Die Akteure kennen sich nicht, haben de facto kein Vertrauen untereinander und haben auch keinen Vertrag untereinander. Das Protokoll ist allerdings so designed, dass das System nicht manipuliert werden kann, bzw. nur dann wenn jemand bereit wäre, horrende Kosten zu tragen (z.B 51% Attack).
 
@@ -60,7 +60,7 @@ Jede DAO funktioniert wie ihre eigene dezentralisierte Wirtschaft. Sie hat ihre 
 
 > « stell dir vor, du hättest auf das Konzept Aktiengesellschaft setzen können, ich würde meinen die Idee der DAO ist ähnlich gross, wenn nicht viel grösser »
 
-#### Was ist die Bedeutung von DAO?
+### Was ist die Bedeutung von DAO?
 
 Es handelt sich um eine Blockchain-basierte Technologie, die es den Nutzern ermöglicht, sich selbst zu organisieren und zu überwachen. Die Nutzer müssen sich an die selbstausgeführten Regeln der öffentlichen Blockchain halten. Das System ist frei von der Kontrolle durch eine zentrale Autorität. Darüber hinaus können die Nutzer Geld von der DAO erhalten, indem sie der Gemeinschaft ihre Pitches vorschlagen.
 
@@ -92,7 +92,7 @@ Was macht DAOs aus:
 * Eine DAO ist keine echte DAO, wenn sie nicht kryptomonetarisiert ist. Ihre native Währung muss mit anderen Kryptowährungen und Fiat-Währungen fungibel sein, um in der globalen Wirtschaft voll funktionsfähig zu sein
 * Eine Komplementärwährung ist nicht unbedingt eine Kryptowährung. Und eine DAO ist keine echte DAO, wenn sie nicht kryptomonetarisiert ist. Ihre native Währung muss mit anderen Kryptowährungen und Fiat-Währungen fungibel sein, um in der globalen Wirtschaft voll funktionsfähig zu sein.
 
-#### Vergleich
+### Vergleich
 
 Nachfolgend ein Vergleich zwischen Nationen, Unternehmen und DAOs um das Thema etwas fassbarer zu machen. Dabei ist festzustellen, dass eine DAO einige Aspekte der Funktionsweise einer Nation, aber auch eines Unternehmens übernimmt, wenn auch in einer technischen Form.
 

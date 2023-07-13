@@ -14,7 +14,7 @@ Während sowohl eine Zentralisierung, als auch eine Dezentralisierung seine Vorz
 
 Kein soziales, politisches oder wirtschaftliches System ist wirklich monolithisch. Normalerweise sind wir auf eine Vielzahl koexistierender und kooperierender Systeme angewiesen, um denselben Outcome zu erreichen. So wie sich die Robustheit eines verteilten Systems aus der Vervielfachung der Mittel ergibt, durch die etwas geschieht, so hängt die Robustheit unserer komplexen sozialen und wirtschaftlichen Organisation davon ab, dass wir mehrere verschiedene Systeme haben, um ähnliche Ziele zu erreichen.
 
-#### Definition im Kontext Web
+### Definition im Kontext Web
 
 Eine eindeutige Definition was ein dezentralisiertes Web ist, gibt es leider nicht. Im Artikel „[What Is the Decentralized Web? 25 Experts Break it Down](https://daominds.io/extwhatisdecentralizedweb)“ kannst du, wenn du die verschiedenen Definitionen lesen willst, mehr darüber erfahren.
 
@@ -26,7 +26,7 @@ Eine Art um sich zu überlegen, was Zentralisierung gerade in Kontext Web und Da
 
 Befürworter der Dezentralisierung hoffen, dass diese zu einer egalitäreren Gesellschaft führen wird. Zu einer Gesellschaft, in der die Macht von zentralisierten Entitäten auf eine dezentralisierte Stakeholder übergeht.
 
-#### Datendemokratie
+### Datendemokratie
 
 Mit Bitcoin und ähnlichen Blockchains wurde eine Methode eingeführt, die es jedem Teilnehmer eines Netzwerks ermöglicht, Werte in einem digital nativen Format zu speichern und zu übertragen, ohne dass vertrauenswürdige Vermittler erforderlich sind. Das Konsensprotokoll ist so konzipiert, dass sich das Netzwerk kollektiv an vorangegangene Ereignisse oder Benutzerinteraktionen erinnern kann. Bitcoin hat daher das Problem der Doppelausgaben gelöst, indem es eine einzige Referenzquelle dafür bietet, wer was wann erhalten hat. Bitcoin und das zugrundeliegende Blockchain-Protokoll können daher als Wegbereiter für ein stärker dezentralisiertes Web angesehen werden.
 
@@ -46,7 +46,7 @@ Eine Datendemokratie bezieht sich auf eine Unternehmenskultur, ein offenes Model
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>literacy, access and the right tools</p></figcaption></figure>
 
-#### Warum Dezentralisierung?
+### Warum Dezentralisierung?
 
 Dezentralisierung ist ein häufig missverstandenes Konzept. So wird zum Beispiel manchmal behauptet, dass die Befürworter von Kryptonetzen die Dezentralisierung deshalb befürworten, um sich der staatlichen Zensur zu widersetzen, oder weil sie libertäre politische Ansichten vertreten. Dies sind jedoch nicht die Hauptgründe, warum Dezentralisierung wichtig ist. Schauen wir uns die Probleme mit zentralisierten Plattformen an. Zentralisierte Plattformen folgen einem vorhersehbaren Lebenszyklus. In der Anfangsphase tun sie alles, um Nutzer und Drittanbieter wie Entwickler, Unternehmen und Medienorganisationen für sich zu gewinnen. Sie tun dies, um ihre Dienste wertvoller zu machen, da Plattformen (per Definition) Systeme mit mehrseitigen Netzwerkeffekten sind. Je weiter Plattformen auf der S-Kurve der Akzeptanz aufsteigen, desto grösser wird ihre Macht über Nutzer und Dritte.
 
@@ -54,7 +54,7 @@ Dezentralisierung ist ein häufig missverstandenes Konzept. So wird zum Beispiel
 
 Wenn sie die Spitze der S-Kurve erreichen, ändern sich ihre Beziehungen zu den Netzwerkteilnehmern von einer Positivsumme zu einer Nullsumme. Der einfachste Weg, weiter zu wachsen, besteht darin, Daten von Nutzern zu extrahieren und mit Komplementären um Publikum und Gewinne zu konkurrieren. Historische Beispiele hierfür sind Microsoft vs. Netscape, Google vs. Yelp, Facebook vs. Zynga und Twitter vs. seine Drittanbieter-Kunden. Betriebssysteme wie iOS und Android haben sich besser verhalten, obwohl sie immer noch eine satte Steuer von 30 % erheben, Apps aus scheinbar willkürlichen Gründen ablehnen und die Funktionalität von Drittanbieter-Apps nach Belieben subsumieren. Für Drittanbieter fühlt sich dieser Übergang von der Zusammenarbeit zum Wettbewerb wie eine Lockvogeltaktik an. Im Laufe der Zeit sind die besten Unternehmer, Entwickler und Investoren vorsichtig geworden, auf zentralisierten Plattformen aufzubauen. Wir haben nun jahrzehntelang bewiesen, dass dies zu Enttäuschungen führen wird. Darüber hinaus geben die Nutzer ihre Privatsphäre und die Kontrolle über ihre Daten auf und werden anfällig für Sicherheitslücken. Diese Probleme mit zentralisierten Plattformen werden sich in Zukunft wahrscheinlich noch verschärfen.
 
-#### wie Dezentralisierung gewinnt
+### wie Dezentralisierung gewinnt
 
 Es ist eine Sache zu behaupten, dass dezentralisierte Netzwerke gewinnen sollten, und eine andere, dass sie auch gewinnen werden. Sehen wir uns konkrete Gründe an, welche mich optimistisch stimmen. Software und Webdienste werden von Entwicklern erstellt. Es gibt Millionen von hochqualifizierten Entwicklern auf der Welt. Nur ein kleiner Teil davon arbeitet in grossen Technologieunternehmen, und nur ein kleiner Teil davon arbeitet an der Entwicklung neuer Produkte. Viele der wichtigsten Softwareprojekte der Geschichte wurden von Start-ups oder von Gemeinschaften unabhängiger Entwickler entwickelt. Dezentrale Netzwerke können die dritte Ära des Internets aus demselben Grund gewinnen, aus dem sie die erste Ära gewonnen haben: indem sie die Herzen und Köpfe von Unternehmern und Entwicklern gewinnen. Eine anschauliche Analogie ist die Rivalität in den 2000er Jahren zwischen Wikipedia und seinen zentralisierten Konkurrenten wie Encarta. Vergleicht man die beiden Produkte in den frühen 2000er Jahren, so war Encarta das weitaus bessere Produkt, mit einer besseren Themenabdeckung und höherer Genauigkeit. Aber Wikipedia verbesserte sich viel schneller, weil es eine aktive Gemeinschaft von freiwilligen Mitwirkenden hatte, die sich von dem dezentralisierten, von der Gemeinschaft geführten Ethos angezogen fühlten. Im Jahr 2005 war Wikipedia die beliebteste Referenzseite im Internet. Encarta wurde 2009 abgeschaltet.&#x20;
 
@@ -69,7 +69,7 @@ Zentralisierte Plattformen werden bei der Markteinführung oft mit überzeugende
 * Produkt-Markt-Anpassung zwischen der Plattform und den Entwicklern/Unternehmern, die die Plattform fertigstellen und das Ökosystem aufbauen werden
 * Produkt-Markt-Anpassung zwischen der Plattform/dem Ökosystem und den Endnutzern. Dieser zweistufige Prozess ist der Grund dafür, dass viele Menschen - auch erfahrene Technologen - das Potenzial dezentraler Plattformen immer wieder unterschätzen.
 
-#### Gewaltenteilung als Element
+### Gewaltenteilung als Element
 
 Zur Erinnerung, die Gewaltenteilung verhindert die Konzentration der Macht bei einzelnen Personen oder Institutionen und schiebt dem Machtmissbrauch einen Riegel vor. Eine Person darf gleichzeitig nur einer der drei Staatsgewalten angehören. Das ist ebenso eine Dezentralisierung.
 
