@@ -14,7 +14,7 @@ Das World-Wide-Web, hat Informationen revolutioniert. Die meisten Teilnehmer war
 
 Web1 bestand aus Websites, die statische Inhalte anstelle von dynamischem HTML bereitstellten. Daten und Inhalte wurden eher aus einem statischen Dateisystem als aus einer Datenbank bereitgestellt, und die Websites waren kaum interaktiv. Auch waren die Informationen in aller Regel nur lesbar- und nicht bearbeitbare.
 
-#### **Merkmale des Web1:**
+#### **Merkmale des Web1**
 
 * statische Seiten im Lesezugriff
 * der Inhalt wird aus dem Dateisystem des Servers bereitgestellt
@@ -32,7 +32,7 @@ Web1 bestand aus Websites, die statische Inhalte anstelle von dynamischem HTML b
 
 Das Internet ist mit Web2 reifer geworden. Die Anwendungen sind komplexer geworden. Interaktive Anwendungen mit der Möglichkeit n:n zu kommunizieren. Waren können gekauft werden, es kann aber auch gemeinsam Wissen (z.B. Wikipedia) erarbeitet werden. Das Web2, auch bekannt als partizipatives oder soziales Web, hat die Welt von statischen Desktop-Webseiten, die für den Informationskonsum bestimmt sind, zu interaktiven Erfahrungen und nutzergenerierten Inhalten geführt, die uns Uber, AirBnB, Facebook und Instagram beschert haben. Wenn Web1 die Britannica Online ist, dann ist Web2 Wikipedia. Der Begriff «Web 2.0» wurde von Tim O'Reilly auf der ersten O'Reilly Media Web 2.0 Conference Ende 2004 eingeführt und ist die Version des Webs, mit der wir heute vertraut sind. Web2 bezieht sich im Kern nicht auf eine technische Revolution, sondern auf die Änderung der Art und Weise, wie Webseiten gestaltet und genutzt werden. Das Web2 war im Wesen einen Front-End-Revolution bzw. eine Revolution der Interaktion. Auf der Protokoll-Ebene hat sich nichts geändert.
 
-#### **Merkmale des Web2:**
+#### **Merkmale des Web2**
 
 * Informationen können gelesen- und auch geschrieben werden
 * Daten werden zentralisiert gehalten
@@ -50,7 +50,7 @@ Wenn das Web2 die Revolution im Front-End darstellt, dann ist das Web3 die Revol
 
 Zentralisierte Plattformen haben in Web2 so lange dominiert, dass viele Menschen vergessen haben, dass es einen besseren Weg gibt, Internetdienste aufzubauen. Kryptonetzwerke sind ein leistungsfähiger Weg, um Netzwerke in Gemeinschaftsbesitz zu entwickeln und gleiche Wettbewerbsbedingungen für Entwickler, Schöpfer und Unternehmen von Drittanbietern zu schaffen. Wir haben den Wert dezentraler Systeme in der ersten Ära des Internets gesehen. Hoffentlich werden wir sie in der nächsten Ära wieder sehen.
 
-#### **Merkmale von Web3:**
+#### **Merkmale von Web3**
 
 * offen, weil sie auf der Grundlage von Open-Source-Software von einer offenen Gemeinschaft von Entwicklern aufgebaut werden
 * Trustless, weil das Netz den Teilnehmern erlaubt, ohne eine vertrauenswürdige dritte Partei zu interagieren.

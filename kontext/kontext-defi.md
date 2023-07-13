@@ -19,7 +19,7 @@ Einige Beispiele:
 
 Neben den üblichen Finanzpraktiken hat es auch verschiedene Finanzkonzepte wie synthetische Vermögenswerte eingeführt, die es in der Branche noch nie gegeben hat. Nachfolgend einige der wichtigsten Anwendungsfälle von Defi.
 
-#### Vermögensverwaltung (Asset Management)
+### Vermögensverwaltung (Asset Management)
 
 Einer der Hauptvorteile des Defi ist die vollständige Kontrolle über das eigene Vermögen. Bei den meisten Defi-Projekten kann man sein Vermögen selbst verwalten, indem man den Kauf, den Verkauf und die Übertragung seiner digitalen Vermögenswerte selbst bestimmt. Die volle Kontrolle ermöglicht auch die Verzinsung dieser Vermögenswerte. Defi bietet auch die nötige Privatsphäre. Projekte wie MetaMask, Gnosis Safe und Argent ermöglichen die Verschlüsselung von Daten und die Speicherung auf persönlichen Geräten, auf die nur der Nutzer Zugriff hat.
 
@@ -57,10 +57,10 @@ Ein Stablecoin (z.B. USDC) ist eine digitale Währung, die an einen „stabilen�
 
 Aufgrund der hohen Inflationsrate von Fiat-Währungen und der niedrigen Zinssätze ist das Sparen in der heutigen Wirtschaft zu einer Herausforderung geworden. Tatsächlich suchen die risikoscheuen Bürger der Mittelschicht auf der ganzen Welt verzweifelt nach alternativen Anlage-/Sparlösungen. Verschiedene dezentralisierte Finanzprojekte (DeFi) haben die Gelegenheit genutzt, um neue Lösungen vorzustellen. Projekte wie \[PoolTogether], \[Dharma] oder \[Argent] sind mit ihrer verlustfreien Sparideologie vielversprechend.
 
-#### Verbesserte Digitale Identität
+### Verbesserte Digitale Identität
 
 Blockchain-basierte digitale Identitätssysteme sind in letzter Zeit bereits sehr populär geworden. Die Verknüpfung von DeFi-Protokollen mit diesen Identitätssystemen könnte den Menschen den Zugang zum globalen Wirtschaftssystem erleichtern. Bei dem herkömmlichen Ansatz werden das Einkommen oder das angesammelte Vermögen als Kriterien für die Kreditwürdigkeit herangezogen. Mit einer digitalen Identität, die mit DeFi gekoppelt ist, ist es möglich, auch andere praktische Attribute zu berücksichtigen, wie z. B. finanzielle Aktivitäten oder berufliches Geschick. Diese neue Art von digitaler Identität könnte benachteiligten Personen den Zugang zu den DeFi-Anwendungen von jedem Ort aus ermöglichen, an dem eine Internetverbindung besteht.
 
-#### Konklusion
+### Konklusion
 
 Mit seinen zahlreichen Anwendungsfällen, den Vorteilen daraus ist es offensichtlich, dass Defi die Zukunft der Finanzindustrie. Defi wird weiter expandieren und noch mehr revolutionäre Finanzlösungen hervorbringen. Defi Use-Cases sind weiter wichtige Elemente einer DAO, muss jedoch zunächst verschiedene Herausforderungen wie Skepsis aufgrund mangelnder Aufklärung und begrenztem Zugang überwinden.

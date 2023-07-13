@@ -33,7 +33,7 @@ Eine Blockchain wird eingesetzt, wenn es keine einzige Partei gibt, der alle ver
 
 Eine der Besten Erklärungen der Blockchain-Prinzipien welche ich je gesehen habe, ist von Dan Boneh ([Blockchain Primitives: Cryptography and Consensus](https://daominds.io/danbonehblockchainprimitives)), auch wenn teils technisch etwas anspruchsvoller.
 
-#### Sidechains
+### Sidechains
 
 Eine Sidechain ist eine eigenständige Blockchain mit der zusätzlichen Eigenschaft, mit der Hauptblockchain interoperabel zu sein und Daten aus anderen Blockchains validieren zu können. Eine Sidechain kann mit einer oder mehreren anderen Chains kommunizieren und interagieren. Transaktionen sind die häufigste Interaktion mit einer Blockchain, die eine Kryptowährung unterstützt. Sidechains helfen die Skalierbarkeit von Blockchains zu erhöhen und angepasst an die Anforderungen die jeweils Beste Technologie einzusetzen. Sidechains bieten einen Mechanismus, um Funktionen auf einem Protokoll der ersten Schicht zu implementieren, ohne die Sicherheit oder Stabilität des Protokolls zu gefährden.
 
@@ -41,7 +41,7 @@ Eine Sidechain ist eine eigenständige Blockchain mit der zusätzlichen Eigensch
 
 Viele Blockchains, verwenden den Proof-of-Work als Konsens-Mechanismus und haben Kernfunktionen des Bitcoin-Protokolls übernommen. Daher haben sie viele der Einschränkungen des von Satoshi Nakamoto geschaffenen Codes geerbt. Dazu gehören ein begrenzter Durchsatz, hohe Latenzzeiten und eine begrenzte Skalierbarkeit. Sidechains stellen eine Möglichkeit dar, einige dieser technologischen Unzulänglichkeiten zu überwinden, aber sie öffnen nicht nur die Türen zu potenziellen technischen Entwicklungen, sondern berühren auch das Thema der Governance.
 
-#### Consens-Mechanismen
+### Consens-Mechanismen
 
 Es geht mit hier nicht darum, die Consens-Menchanismen von Blockchain im Detail zu erklären oder gar zu vergleichen. Nicht informierte tun die Krypto-Welt häufig ab mit dem Statement > „kann nichts sein, verschleudert Unmengen an Energie“. Aus meiner Sicht ist das lediglich eine natürliche Reaktion derer, welche nicht bereit sind eine Innovation genauer zu betrachten. Entsprechend liste ich nachfolgend ein paar Ansätze - welche auch angewandt werden - auf.
 
@@ -73,7 +73,7 @@ Der Proof of Authority-Mechanismus ist eine modifizierte Version des Proof of St
 **Proof of Activity** \
 Der Aktivitätsnachweis ist eine Kombination aus Proof of Work und Proof of Stake. Bei Proof of Activity versuchen die Miner, die Lösung eines Rätsels zu finden und ihre Belohnung einzufordern. Die Blöcke, die beim Proof of Activity-Mechanismus erstellt werden, sind jedoch einfache Vorlagen mit der Adresse der Mining-Belohnung und Header-Informationen. Die Header-Informationen werden dann verwendet, um eine zufällige Gruppe von Validierern für die Unterzeichnung eines Blocks auszuwählen. Die Validatoren mit grösseren Einsätzen haben eine grössere Chance, für die Unterzeichnung eines neuen Blocks ausgewählt zu werden.
 
-#### Das Blockchain Trilemma
+### Das Blockchain Trilemma
 
 Das Blockchain-Trilemma befasst sich mit den Herausforderungen, denen sich Entwickler bei der Entwicklung einer Blockchain stellen müssen, die skalierbar, dezentralisiert und sicher ist - ohne Kompromisse bei einer der Facetten einzugehen. Blockchains sind oft gezwungen, Kompromisse einzugehen, die verhindern, dass sie alle 3 Aspekte erfüllen:
 
@@ -85,7 +85,7 @@ Während einige Entwickler glauben, dass die Blockchain-Datenstruktur selbst inh
 
 Erstens ist es wichtig zu beachten, dass das Trilemma nur ein Modell ist, um die verschiedenen Herausforderungen der Blockchain-Technologie zu konzeptualisieren. Es gibt kein Gesetz, das besagt, dass die drei Aspekte nicht erreicht werden können.
 
-#### Das Energie-Dilemma, welches keines ist?
+### Das Energie-Dilemma, welches keines ist?
 
 Leider scheint momentan nur der Proof-of-Work Mechanismus und damit bspw. Bitcoin wirklich dezentralisiert zu sein. Oft wird argumentiert, dass das Bitcoin-Netzwerk Unmengen an Energie „verschleudert“. Zur Zeit benötigt das Bitcoin-Netzwerk um die 220 TWh (Terawattstunden) Energy pro Jahr. Um das in den Context zu bringen, ein paar Vergleiche:
 
