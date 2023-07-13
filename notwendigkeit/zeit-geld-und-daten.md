@@ -10,7 +10,7 @@ Es wird wohl niemand behaupten, dass was wir aktuell auf diesem Planeten erleben
 
 ### Der Geld-Defekt
 
-#### **Wenn das Geld kaputt ist, wird alles zu Geld.**&#x20;
+#### **Wenn das Geld kaputt ist, wird alles zu Geld**&#x20;
 
 Wir erleben die Ausläufer eines grossen Experiments in welchem die Frage gestellt wurde:
 
