@@ -1,0 +1,16 @@
+---
+description: eine Auswahl von Videos, für weiterführende Informationen
+---
+
+# empfehlung videos
+
+* [Hopium Diaries](https://daominds.io/vidhopiumdiearies) - Dystopian Dreams by rest news \
+  Diskutiert eine neue finanzielle Welt, die durch Technologie und Kryptowährungen geformt wird. Es beleuchtet die Rolle von Visionären, die diese Veränderung anstossen, die Herausforderungen der Regulierung durch Regierungen und die möglichen Auswirkungen auf traditionelle Finanzsysteme. Es stellt auch die transformative Rolle von Blockchain und Kryptowährungen in der Zukunft dar.
+* [How the economic machine Works](https://daominds.io/howtheeconomicmachineworks) by Ray Dalio \
+  Erklärt die Funktionsweise der Wirtschaft als eine Maschine, die von Krediten und Schulden angetrieben wird. Es beleuchtet die Rolle von Produktivität, kurz- und langfristigen Schuldenzyklen und wie sie das Wirtschaftswachstum beeinflussen. Es diskutiert auch die Auswirkungen von Inflation, Deflation und Zentralbanken auf die Wirtschaft. Schliesslich erklärt es den Prozess des "Deleveraging" und wie eine ausgewogene Mischung aus Ausgabenkürzungen, Schuldenabbau, Vermögenstransfer und Geldschöpfung zu einer "schönen Deleveraging" führen kann.
+* [Mental Models for web3](https://daominds.io/mentalmodelsforweb3) by Bankless with Chris Dixon \
+  Ein tiefgreifendes Gespräch über die Zukunft des Internets und die Rolle von Kryptowährungen und Blockchain-Technologie. Chris Dixon, Partner bei a16z, diskutiert fünf mentale Modelle, die helfen, die Komplexität von Web3 zu verstehen: "Es ist nur ein Spielzeug", "Web3", "Tokens sind die neuen Websites", "Ihre Gebühr ist meine Gelegenheit" und "Netzwerke werden zu Volkswirtschaften". Er spricht über die transformative Rolle von Web3, die Möglichkeit, traditionelle Geschäftsmodelle zu stören, und die Bedeutung von Gemeinschaften in diesem neuen digitalen Zeitalter.
+* [Money and Inflation](https://daominds.io/miltonfriedmanspeaks) by Milton Friedman \
+  Milton Friedman erklärt, dass Inflation ein monetäres Phänomen ist, verursacht durch eine Geldmengenausweitung, die das Güterwachstum übersteigt. Oft geschieht dies, um der Regierung zu ermöglichen, ihre Rechnungen zu bezahlen, ohne die Steuern zu erhöhen. Die einzige wirkliche Lösung ist eine Reduzierung der Staatsausgaben und eine geringere Geldemission, wobei die Alternativen Rezession und hohe Inflation sind.
+* [The Great Reset and the Rise](https://daominds.io/resetandtheriseofbitcoin) of Bitcoin by Pierre Corbin\
+  Dokumentarfilm, der den aktuellen Zustand unserer Wirtschaft und die Auswirkungen eines neuen Geldsystems wie Bitcoin untersucht. Der Film diskutiert die Aktionen der Zentralbanken, die Zunahme der globalen Verschuldung und die Abwertung von Währungen aufgrund der Zunahme der Geldmenge. Er spricht auch über das Konzept der Zentralbank-Digitalwährungen (CBDCs) als mögliche Lösung, hebt aber das Potenzial für Missbrauch und Kontrolle hervor. Der Dokumentarfilm schlägt vor, dass Bitcoin eine dezentrale und demokratische Alternative zu diesem System bieten könnte.

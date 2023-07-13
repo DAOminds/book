@@ -1,0 +1,130 @@
+---
+description: die Grundlagen und Funktionen von dezentralen autonomen Organisationen
+---
+
+# was ist eine dao
+
+In ihrer einfachsten Form ist eine DAO eine effiziente Möglichkeit, die Arbeit und die Interessen mit Menschen weltweit zu koordinieren. Es ist eine neuartige Art und Weise, wie wir Gesellschaft über Jurisdiktionen steuern und verwalten können, dies aber viel effizienter als bisher. DAOs sind de facto Blockchain-basierte Genossenschaften mit Software-Verfassung.
+
+> « stell dir einfach der Einfachheit halber ein Unternehmen ohne CEO vor, welches regelbasiert selbständig Entscheidungen trifft »
+
+Merkmale einer DAO:
+
+* transparente « Buchhaltungs-Maschine »
+* eine « Governance Maschine bzw. Verwaltungsmaschine »
+* eine « Anreiz Maschine »
+* eine « Token Druck Maschine »
+
+"Dezentralisiert" bedeutet, dass sie keine zentrale Führung hat; "autonom" bedeutet, dass sie sich selbst verwaltet; und "Organisation" ist der "Gruppen"-Teil davon. Im einfachsten Fall sind DAOs Blockchain-basierte Genossenschaften mit Software-Verfassung. Ich gehe davon aus, dass in naher Zukunft die Aspekte „decentralized“ & „autonomous“ einer DAO bewertet werden können. Zur Zeit ist mir solch ein Model nicht bekannt. Am Beispiel der „Autonomie“ könnte das wie im nachfolgenden Bild aussehen.
+
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>autonomy of a DAO</p></figcaption></figure>
+
+DAOs oder „Distributed Autonomous Organizations“ sind de facto „Genossenschaften“, welche kryptomonetarisiert werden. Alles andere, was eine DAO tut, wird schon seit mindestens zweihundert Jahren gemacht oder mindestens versucht. Nachfolgende Beispiele zeigen erfolgreichen Genossenschaften, welche kooperativ funktionieren:
+
+* Im Jahr 1844, am 21. Dezember, wurde die Rochdale Equitable Pioneers Society gegründet. Rochdale leistete tatsächlich Pionierarbeit bei der Incentivierung, die wir oft als Gamification bezeichnen, und bei den Mechanismen der anteiligen Gewinnbeteiligung, die heute als bahnbrechend angesehen werden. In dem Buch « Alles für jeden » von Nathan Schneider erfahren wir, dass die Mitglieder von Rochdale 2 Pence pro Woche in einem Abonnement zahlten, das sie dazu berechtigte, an den Entscheidungsprozessen der Organisation teilzunehmen. Aber das wirklich Interessante war, dass sie als teilnehmende Mitglieder oder Miteigentümer Anspruch auf eine Dividende aus den Gewinnen des Ladens hatten, die proportional zu ihren Ausgaben war. Dies wurde als "Patronatsdividende" bekannt.
+* Frederic Lalaoux schrieb 2014 in seinem Buch « Reinventing Organizations » über eine Art von Organisation, die er Teal nannte und die die Befehls- und Kontrollstrukturen der meisten Organisationen überwindet.
+* Im Jahr 2018 feierte Japan den Geburtstag von Toyohiko Kagawa, dem Vater der japanischen Genossenschaftsbewegung. Er gründete 1921 die Co-op Kobe, die schliesslich auf über 65 Millionen Mitglieder mit einem Jahresumsatz von 135 Milliarden Dollar anwuchs.
+* In dem 2020 erschienenen Buch "Corporate Rebels" von Joost Minnaar haben die Autoren mit Ehrfurcht und mit einigen Überschneidungen zu Laloux' Arbeit zahlreiche detaillierte Beispiele von Organisationen untersucht, die wirklich anders gedacht und wunderschöne dezentralisierte und verteilte Organisationen geschaffen haben.
+
+#### Was ist ein Genossenschaftsmodel
+
+Die International Cooperative Alliance ("ICA") hat die Definition einer Genossenschaft wie folgt erweitert: "Genossenschaften sind auf den Menschen ausgerichtete Unternehmen, die sich im gemeinsamen Besitz ihrer Mitglieder befinden und von ihnen und für sie demokratisch kontrolliert werden, um ihre gemeinsamen sozioökonomischen Bedürfnisse und Bestrebungen zu verwirklichen. Als Unternehmen, die auf Werten und Grundsätzen beruhen, stellen sie Fairness und Gleichheit an die erste Stelle und ermöglichen es den Menschen, nachhaltige Unternehmen zu schaffen, die langfristig Arbeitsplätze und Wohlstand schaffen. Genossenschaften werden von Erzeugern, Nutzern oder Arbeitnehmern verwaltet und nach der Regel 'ein Mitglied, eine Stimme' geführt".
+
+Die präzisere Definition lautet: "eine autonome Vereinigung von Personen, die sich freiwillig zusammengeschlossen haben, um ihre gemeinsamen wirtschaftlichen, sozialen und kulturellen Bedürfnisse und Bestrebungen durch ein Unternehmen in gemeinsamem Besitz und unter demokratischer Kontrolle zu erfüllen."
+
+Es gibt seit langem bestehende genossenschaftliche Geschäftsmodelle, von denen man lernen und auf denen man aufbauen kann. Vor allem aber sollten Sie die sieben international anerkannten Genossenschaftsprinzipien verstehen, wenn Sie eine DAO gründen oder sich an ihr beteiligen möchten.
+
+Der Aufbau einer DAO ist anders als der Aufbau jeder anderen Art von Organisation, die jemals existiert hat. Aber nur wegen der Einbeziehung der Kryptowährung und der Art und Weise, wie sie die dazugehörige Blockchain-Technologie nutzt.
+
+Wenig von den operativen Aspekten dessen, was wir heute als DAO bezeichnen, ist neu. Der Unterschied liegt in der vollständigen Digitalisierung der genossenschaftlichen Organisation, die jetzt manchmal als Plattformgenossenschaften bezeichnet wird, sowie in der Anwendung der Blockchain für die Verwaltung und der Kryptowährung für monetäre Aktivitäten. Dies sind die neuen Aspekte und Wachstumsbeschleuniger. Die relative Einfachheit der Nutzung und die Digitalisierung des Vertrauens schaffen eine einzigartige Art von Organisation, wenn sie richtig genutzt wird.
+
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>what constitutes in a DAO</p></figcaption></figure>
+
+Organisationen heute
+
+Traditionell ist eine Unternehmensstruktur der effektivste marktwirtschaftliche Ansatz, um Talente für ein bestimmtes Ziel zu rekrutieren. Diese Arbeitskräfte werden in der Regel durch Löhne gelockt und kontrolliert. Die Organisationen heute sind zentralisiert und interagieren mit anderen Organisationen. Es sind hierarchische Organisation, meist Top-Down gesteuert, klassische wie eine Pyramide. Die Beziehungen sind über bilaterale „Verträge“ miteinander geregelt. Welche Entscheide darf ich fällen, welche Aufgaben habe ich etc. Organisation wiederum leben untereinander Verträge. Wenn wir „per Default“ vertrauen würden, dann würde es diese „Verträge“ gar nicht brauchen.
+
+#### Organisationen Zukunft
+
+Nun denn, die Dezentrale autonome Organisation DAO, Bitcoin ist ein Beispiel dafür. Die Teilnehmer einer DAO sind Unterschiedliche Netzwerkakteure (Miner, Walltet-Nutzer, Entwickler, Exchanges) welche unterschiedliche Rollen und Rechte im System haben. Der Vertrag bzw. die Spielregeln stehen im Protokoll und sind für alle Transparent > sofern sie denn dieses Protokoll verstehen. D.h. die Spielregeln sind transparent und allen zugänglich, so ähnlich wie in einer Verfassung. Jeder kann ohne Einwilligung (permissionless) am System partizipieren, sofern er bereit ist, die Regeln der DAO zu akzeptieren. Die Akteure kennen sich nicht, haben de facto kein Vertrauen untereinander und haben auch keinen Vertrag untereinander. Das Protokoll ist allerdings so designed, dass das System nicht manipuliert werden kann, bzw. nur dann wenn jemand bereit wäre, horrende Kosten zu tragen (z.B 51% Attack).
+
+Wenn die „Verfassung“ bzw. das Protokoll geändert werden soll, braucht es den Konsens der Community. Die Governance in den Protokollen entsprechend eingebaut und muss klar sein.
+
+Das „programmieren“ dieser „Verwaltungs-Maschine“ in den Blockchains ist eine politische Frage, eine soziale Frage, eine Frage wie wir Machtstrukturen verwalten und handhaben wollen.
+
+Eine dezentralisierte autonome Organisation (DAO) ist eine Organisation, die von Regeln geleitet wird, die als transparenter, unveränderlicher Computercode kodiert sind, der von den Teilnehmern beeinflusst wird, und nicht von einer zentralisierten Stelle.
+
+Eine DAO hat die Governance mit eingebaut. Eine DAO ist 100% transparent, andernfalls ist es keine DAO. Eine DAO ist hoch automatisiert. Es ist eine Art Koordination von Kapital und Kultur.
+
+Jede DAO funktioniert wie ihre eigene dezentralisierte Wirtschaft. Sie hat ihre eigene Währung, ihr Stimmrecht, ihr wirtschaftliches Verhalten, ihren Marktplatz, ihren Verhaltenskodex, ihre Meme und vor allem ihre eigene Kultur. Governance ist lediglich die Befugnis, wirtschaftliche und politische Entscheidungen für diese Wirtschaft vorzuschlagen und zu genehmigen. Jede DAO funktioniert wie ihre eigene dezentralisierte Wirtschaft. Sie hat ihre eigene Währung, ihr Stimmrecht, ihr wirtschaftliches Verhalten, ihren Marktplatz, ihren Verhaltenskodex, ihre Meme und vor allem ihre eigene Kultur. Governance ist lediglich die Befugnis, wirtschaftliche und politische Entscheidungen für diese Wirtschaft vorzuschlagen und zu genehmigen.
+
+> « stell dir vor, du hättest auf das Konzept Aktiengesellschaft setzen können, ich würde meinen die Idee der DAO ist ähnlich gross, wenn nicht viel grösser »
+
+#### Was ist die Bedeutung von DAO?
+
+Es handelt sich um eine Blockchain-basierte Technologie, die es den Nutzern ermöglicht, sich selbst zu organisieren und zu überwachen. Die Nutzer müssen sich an die selbstausgeführten Regeln der öffentlichen Blockchain halten. Das System ist frei von der Kontrolle durch eine zentrale Autorität. Darüber hinaus können die Nutzer Geld von der DAO erhalten, indem sie der Gemeinschaft ihre Pitches vorschlagen.
+
+#### Warum werden DAOs benötigt?
+
+Wenn eine Person eine Organisation mit einer anderen Partei aufbauen möchte, erfordert die Beteiligung von Geld und Finanzierung an diesem Prozess viel Vertrauen in die Parteien, mit denen man zusammenarbeitet. Es ist jedoch kein kluger Schachzug, jemandem, mit dem man gerade erst im Internet interagiert hat, für sein Geschäft zu vertrauen. Durch die Verwendung von DAO muss man sich jedoch nicht bemühen, vertrauenswürdige Personen zu finden, da das DAO-System Ihnen hundertprozentige Glaubwürdigkeit und Transparenz des DAO-Codes bietet. Diese Entwicklung bietet viele Möglichkeiten welche eine weltweite Zusammenarbeit vereinfachen.
+
+Wir haben diese Wirtschaft geerbt, in der der Klimawandel ein grosses Problem ist, in der Fehlinformationen ein grosses Problem sind, in der wir unseren Institutionen nicht trauen und in der wir unsere neue Kultur erfinden, die auf den Bedürfnissen, Werten und Gedanken unserer Generation aufbaut.
+
+#### Wie funktionieren DAOs?
+
+Intelligente Verträge sind die Grundlage einer DAO. Die Regeln der DAO-Gruppe und der Organisation sind in intelligenten Verträgen verankert. Sobald der Vertrag auf Ethereum veröffentlicht ist, können keine Änderungen mehr an den Regeln vorgenommen werden. Allerdings kann ein Abstimmungssystem verwendet werden, um Änderungen zu genehmigen. Wenn ein Mitglied etwas tut, das nicht mit der Logik und den Regeln des erstellten Codes übereinstimmt, wird die Aktion nicht mehr funktionieren. Ohne die Erlaubnis der Gruppe kann niemand das Geld ausgeben, da die Finanzierung ebenfalls durch den Smart Contract festgelegt ist. Die DAO-Gruppe entscheidet ganz ohne die zentrale Autorität, und Spenden werden automatisch gewährt, wenn die Abstimmung angenommen wird. Intelligente Verträge sind nicht mehr änderbar, nachdem sie auf Ethereum gesendet wurden. Niemand kann die Regeln einfach ändern, ohne von anderen Mitgliedern erwischt zu werden, da alles in diesem System öffentlich ist.
+
+Was macht DAOs aus:
+
+* Die in einer DAO eingebauten Anreizmechanismen stellen sicher, dass die Beteiligten in dieselbe Richtung gehen.
+* DAO sind die neuen LCC’s > Unternehmen mit beschränkter Haftung
+* ist kaum für jedes Unternehmen sinnvoll, bietet jedoch Potenziale, da viele Funktionen und Prozesse, die mit einem dezentralen, vertrauenslosen Ansatz effizienter und produktiver sein können
+* In grösseren DAOs werden manchmal Teams gebildet, die sich mit verschiedenen Aspekten der Organisation befassen und deren Leiter gewählt wurden. Auf diese Weise muss nicht jedes einzelne Mitglied über jede Kleinigkeit abstimmen.
+* DAOs haben noch viele potenzielle regulatorische und rechtliche Herausforderungen zu bewältigen
+* Eines Tages werden alle unsere Governance-Systeme über DAOs laufen
+* DAOs sind "sehr partizipatorisch“, DAOs sind aber nicht demokratisch, auch sie werden von der mächtigen Natur des Kapitalismus beherrscht. Anreizsysteme müssen so eingerichtet werden, dass das kapitalistische Eigeninteresse aller Mitglieder in die richtigen Bahnen gelenkt wird.
+* DAOs sind Gemeinschaften, und Gemeinschaften haben Vermögenswerte. Einige dieser Vermögenswerte haben einen realen Wert in dem Sinne, dass man sie für viel Geld verkaufen kann, und einige dieser Gemeinschaften haben einen guten, unscharfen Wert, weil sie einen mit Menschen verbinden.
+* In DAOs neigen dazu zu denken, dass Hierarchie schlecht ist. Die Realität ist, dass Hierarchie nützlich sein kann - Menschen mögen Struktur. Der Schlüssel liegt darin, “viele“ weiche Hierarchien statt einer einzigen starren zu haben, mehr dazu im entsprechenden Kapitel.
+* Eine DAO ist disruptiv, sie erlaubt eine globale Kollaboration, Voraussetzung für die Teilnehmer ist letztlich eine Internet-Verbindung.
+* Eine DAO reduziert die Notwendigkeit von Vertrauen, jeder kann teilnehmen.
+* Eine DAO ist multidisziplinär, es gibt verschiedene Möglichkeit an der DAO mitzuwirken
+* Es gibt Incentives basierend auf den Efforts der einzelnen
+* Eine DAO ist keine echte DAO, wenn sie nicht kryptomonetarisiert ist. Ihre native Währung muss mit anderen Kryptowährungen und Fiat-Währungen fungibel sein, um in der globalen Wirtschaft voll funktionsfähig zu sein
+* Eine Komplementärwährung ist nicht unbedingt eine Kryptowährung. Und eine DAO ist keine echte DAO, wenn sie nicht kryptomonetarisiert ist. Ihre native Währung muss mit anderen Kryptowährungen und Fiat-Währungen fungibel sein, um in der globalen Wirtschaft voll funktionsfähig zu sein.
+
+#### Vergleich
+
+Nachfolgend ein Vergleich zwischen Nationen, Unternehmen und DAOs um das Thema etwas fassbarer zu machen. Dabei ist festzustellen, dass eine DAO einige Aspekte der Funktionsweise einer Nation, aber auch eines Unternehmens übernimmt, wenn auch in einer technischen Form.
+
+|                              | Nationen                                                                                                           | DAOs                                                                                                                                                                                                                          | Unternehmen                                                                                                                                       |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Beispiele                    | Schweiz, USA…                                                                                                      | Bitcoin, Ethereum…                                                                                                                                                                                                            | Private- und öffentliche Unternehmen                                                                                                              |
+| Token                        | CHF, USD…                                                                                                          | BTC, ETH…                                                                                                                                                                                                                     | Prämien und Treueprogramme                                                                                                                        |
+| <p>legale<br>Währung</p>     | Landeswährung, Geldpolitik wird durch die Steuerpolitik in Abstimmung mit den Aktivitäten der Zentralbank bestimmt | <p>nativer Blockchain-Token, im Protokoll definierte Geldpolitik<br>kann durch ein Protokoll-Update geändert werden</p>                                                                                                       | keine interne Währung, also keine Währungspolitik.                                                                                                |
+| Anreizmechanismen            | Steuern, Sanktionssysteme                                                                                          | Block-Rewards, Transaction Fees, Token Price                                                                                                                                                                                  | Salärsysteme, Bonuszahlungen, RoI, RoS                                                                                                            |
+| Steuerungsmodell             | Autokratie, Oligarchie, Demokratie                                                                                 | Die algorithmische Verwaltung der Governance ermöglicht eine automatisierte Durchsetzung der Politik in Kombination mit der sozialen Governance, d. h. dem Prozess der kollektiven Meinungsbildung über die künftige Politik. | Typen rechtlicher Strukturen wie AGs, GmbHs usw.                                                                                                  |
+| Gewaltenteilung              | Ja in Demokratien, Nein in Autokratien                                                                             | Abhängig des Typ der DAO                                                                                                                                                                                                      | Abteilungen wie HR, Controlling, QM, Legal etc.                                                                                                   |
+| Konfliktlösung               | Justiz, Juristen                                                                                                   | dezentralisierte Schlichtungsstellen oder eine rückwirkende Änderung des Ledgers mit einem Hard Fork oder der On-Chain-Governance                                                                                             | Mediation, Gerichte etc.                                                                                                                          |
+| Ausführung                   | Regierung und verwandte Verwaltungsstellen                                                                         | kollektive algorithmische Verwaltung der Governance                                                                                                                                                                           | Verwaltungsrat und Management                                                                                                                     |
+| Vertreter                    | <p>Bürger</p><p>Immigranten</p><p>Touristen</p><p>Unternehmen</p><p>NGOs</p>                                       | <p>Token Holder</p><p>Full Nodes</p><p>Miner</p><p>Entwickler</p><p>Exchanges</p>                                                                                                                                             | <p>Aktionäre</p><p>Board of Directors</p><p>Advisory Board</p><p>Mitarbeiter</p><p>Freelancer</p>                                                 |
+| Gesetzgebung                 | jedes Mitglied des Parlaments                                                                                      | <p>Jeder Entwickler, auch anonyme Entwickler, können<br>Verbesserungsvorschläge machen.</p>                                                                                                                                   | Verwaltungsrat und Aktionäre                                                                                                                      |
+| geltendes Recht              | In den meisten repräsentativen Demokratien ist für Verfassungsänderungen ein Konsens erforderlich.                 | Konsensprotokoll und Smart Contracts sind eine Art rechnergestützte Konstitution. Änderungen durch Protokoll-Upgrade (Hard-Fork) oder Smart-Contract-Code-Upgrade.                                                            | Statuten des Unternehmens, welche üblicherweise durch Aktionäre geändert werden können.                                                           |
+| Einfaches Recht              | einfache Gesetze stützen sich auf die Verfassung und erfordern meist eine einfache Mehrheit                        | Soft-Fork wenn Änderungen am Blockchain-Protokoll                                                                                                                                                                             | alle operativen Verfahren, die der Verwaltungsrat beschliesst und die bis zu den unteren Ebenen der Verwaltung und Ausführung durchdringen werden |
+| Identifikation               | Geburtsurkunde, Pass etc.                                                                                          | <p>Token Holder Adress<br>Validator Adress</p><p>Miner Adress</p>                                                                                                                                                             | <p>Nationale ID</p><p>Arbeitserlaubnis</p><p>Mitarbeiterausweis</p>                                                                               |
+| <p>Auflösung<br>Trennung</p> | Revolution, Krieg                                                                                                  | strittiger Hard-Fork                                                                                                                                                                                                          | Teile des Unternehmens zerbrechen oder M\&A                                                                                                       |
+
+#### Stärken und Schwächen von Unternehmen vs. DAOs
+
+<table data-header-hidden><thead><tr><th width="163.33333333333331"> </th><th>Stärken</th><th>Schwächen</th></tr></thead><tbody><tr><td></td><td>Stärken</td><td>Schwächen</td></tr><tr><td>Unternehmen</td><td><ul><li>klarer rechtlicher Status &#x26; Schutz</li><li>etablierte rechtliche Präzedenzfälle</li><li>Möglichkeiten der Steuerplanung</li><li>Zugang zu traditionellen Kapitalquellen</li><li>klare Verwaltungsbefugnisse</li></ul></td><td><ul><li>hohe Eintritts-/Austrittsbarrieren</li><li>Undurchsichtigkeit</li><li>Unflexibilität</li><li>Begrenzte Beteiligung an der Unternehmensführung</li><li>Dominanz des Managements</li><li>Trennung von Eigentum &#x26; Kontrolle</li></ul></td></tr><tr><td>DAO</td><td><ul><li>niedrige Eintritts-/Austrittsbarrieren</li><li>Geschwindigkeit</li><li>Anpassungsfähigkeit</li><li>Transparenz</li><li>Kompatibilität</li><li>dezentralisierte Verwaltung</li><li>Token-basierte Anreizsysteme</li><li>Möglichkeit zum Experimentieren</li><li>Automatisierung durch intelligente Verträge</li></ul></td><td><ul><li>Rechtsunsicherheit</li><li>Mangel an klar definierten Rollen</li><li>Schwierige informelle Koordination</li><li>Begrenztes Instrumentarium</li><li>Governance-Herausforderungen</li><li>Sicherheitsschwachstellen</li><li>Überwachungspotenzial</li><li>Steuerliche Unsicherheit</li><li>Trittbrettfahrer</li></ul></td></tr></tbody></table>
+
+#### Konklusion
+
+Wenn man sie mit einer seit langem bestehenden und äusserst erfolgreichen Geschäftsform wie den Genossenschaften kombiniert, entsteht etwas Einzigartiges und Mächtiges. Fast 300 Millionen Menschen auf der ganzen Welt sind Mitglieder von Genossenschaften. Die 300 grössten Genossenschaften erwirtschaften zusammen einen Jahresumsatz von 2,1 Billionen USD. 12 % der Weltbevölkerung sind direkt bei Genossenschaften beschäftigt. Mit der Entstehung neuer digitaler und kryptomonetarisiert Genossenschaften dürfte diese Zahl weiter steigen.
+
+Im Februar 2021 schätzte der Business-Insider-Autor Harry Robertson, dass gegen 110 Millionen Menschen weltweit Kryptowährungen besitzen oder verwenden. Ich vermute, dass diese Zahl zu niedrig ist. Es ist nicht einfach, die Entwicklung zu verfolgen, was die Zentralbanken der Welt und die führenden globalen Finanzmächte zunehmend beunruhigt.
+
+Ich würde vorhersagen, dass wir am Anfang eines sehr langfristigen Trends stehen, der dazu führen wird, dass die erfolgreichsten Genossenschaften kryptomonetarisiert werden und an die Seite der erfolgreichsten globalen Wirtschaftsmächte treten, die seit geraumer Zeit die Macht des Geldes und der Zentralbanken nutzen, um zu herrschen. DAOs befinden sich noch in einem frühen Stadium ihrer Entwicklung, und ihr volles Potenzial ist noch nicht bekannt.
+
+Leider sind die Mächtigen nicht gerade dafür bekannt, dass sie diese Macht leichtfertig aufgeben. Leider schon mal gehört: „Regierungen brauchen keine Blockchains und Kryptowährungen, sie haben Waffen, um zu bekommen, was sie wollen."
+
+Wir befinden uns in einer geschichtlichen Epoche, in der das menschliche Potenzial dank der Weiterentwicklung von Technologien wie Blockchains und Organisationssystemen wie kooperativen Governance-Modellen in nie dagewesener Weise zum Vorschein kommen kann. Wenn wir lediglich die positive- und keine düsteren Gedanken mitnehmen, streben wir eine strahlende Zukunft an, in der die Technologie für die maximale Entwicklung des menschlichen Potenzials genutzt wird.
