@@ -6,7 +6,7 @@ description: und wie sie sich die Rahmenbedingungen auf DAOs auswirken
 
 Eine der wesentlichen Fragen zum Thema DAO ist sicherlich die rechtliche Lage. Denn aufgrund der globalen Natur des Internets und der Blockchain ist sie international. Setzen sich DAOs so über die nationalen Interessen und Richtlinien einer Regierung hinweg? Wie kann eine Regierung überhaupt in die Vorgänge einer DAO eingreifen?
 
-#### vom wilden Westen zur gelebten Seriosität?
+### vom wilden Westen zur gelebten Seriosität?
 
 Die ersten Versuche eine DAO zu starten / zu leben war ohne jegliche rechtliche Überlegungen und ohne jeglichen rechtlichen Rahmen. Es war der wilde Westen könnte man meinen. Das Beispiel des «[the DAO](https://daominds.io/extthedao)» aus dem 2016 wird hierfür als Negativbeispiel herangezogen. Es war in der Tat ein frühes experiment. Viele haben damit Geld verloren. Ob ein klarer rechtlicher Rahmen damals diesen Fall hätte vermeiden können, das scheitern der Idee hätte vermeiden können, wage ich zu bezweifeln.  Bei solchen grundlegend ändernden- und neuen Ideen geht es immer ja auch darum, dass die Gesellschaft anfängt diese auch zu verstehen. Ich bezeichne das Scheitern des «[the DAO](https://daominds.io/extthedao)» als Lerngeld mit einer neuen Technologie. Heute gegen Ende 2021 ist eine Politik wenn überhaupt erst in der Lage, die technologischen Entwicklungen, die Auswirkung auf unser Leben und damit die womöglich rechtlichen Herausforderungen wirklich zu verstehen. Einen rechtlichen Rahmen um solch eine grundlegend neue Sache lässt sich aus meiner Sicht nur mit ausreichend Sachverstand vernünftig implementieren.
 
@@ -17,7 +17,7 @@ In einer DAO ist der Code Gesetz, es ist fraglich ob es nicht sinniger ist das B
 
 Es ist ein schmaler Grat zwischen dem Erfinden eigener Regeln und dem Einhalten eines rechtlichen Rahmens. Daher sollten DAOs zumindest in einem rechtlichen/regulatorischen Kontext als Experiment betrachtet werden, damit sie zustande kommen.
 
-#### Governance in dezentralen Ökosystemen
+### Governance in dezentralen Ökosystemen
 
 Die Verwaltung dezentralisierter Ökosysteme (Governance) hat viele Aspekte, die wichtig zu verstehen sind. Es handelt sich hierbei um die Führung von Netzwerken oder Projekten, die sowohl «on-chain» - also durch Smart Contracts - als auch «off-chain» - ausserhalb der Blockchain - erfolgen kann.
 
@@ -58,7 +58,7 @@ Der Zweck solcher Governance kann vielfältig sein. Es kann um Investitionen geh
   * unterschrieben eines Dokuments, welches die Absichten bekundet
   * es braucht keinen Rechtsakt
 
-#### Challanges
+### Challanges
 
 * Die Synchronisation der Off-Chain-Governance mit der On-Chain-Governance ist eine zentrale Herausforderung in dezentralisierten Systemen. Off-Chain-Entscheidungen müssen sorgfältig in die On-Chain-Umgebung integriert werden. Es ist eine Kunst, eine Brücke zwischen der formalisierten Logik der Smart Contracts und den oft unstrukturierten Off-Chain-Entscheidungen zu schlagen.
 * Für DAOs ist es entscheidend, dass die rechtlichen, organisatorischen und technischen Aspekte ineinandergreifen. Rechtliche Rahmenbedingungen müssen mit den organisatorischen Zielen und technischen Möglichkeiten übereinstimmen. Jedes Element beeinflusst das andere, daher müssen sie in Harmonie arbeiten, um das volle Potenzial der DAO auszuschöpfen.

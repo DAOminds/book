@@ -6,7 +6,7 @@ description: und Mechanismen für eine effektive Zusammenarbeit und Governance
 
 Statt über Organisation spreche ich lieber über das Organisieren. Die Missverständnisse werden dadurch weitaus weniger, die Diskussionen in der Regel produktiver.
 
-#### Kultur und Struktur
+### Kultur und Struktur
 
 Alles Menschliche besteht aus zwei Hauptebenen: der physischen Realität und der psychologischen/ soziologischen Ebene. Im Bereich der Werte können wir diese beiden Ebenen beispielsweise als "fundamentalen Wert" und "subjektiven Wert" bezeichnen. In der Informatik sind es "Hardware" und "Software". Und im Bereich der Organisationsführung und Entscheidungsfindung können wir sie als "Struktur" und "Kultur" bezeichnen.
 
@@ -22,7 +22,7 @@ Die Kultur beschreibt, wie eine Entscheidung getroffen wird. Die Struktur beschr
 
 Struktur steht mit Kultur in einer Wechselbeziehung zueinander: Die Struktur beeinflusst die Kultur, die wiederum die Struktur beeinflusst. Zwischen beiden besteht eine Anziehungskraft, die umso stärker ist, je mehr sie auseinanderklaffen. Wenn die Kultur einer Organisation weit von ihrer Struktur abweicht, wird sich entweder die Struktur selbst ändern, um sich der neuen Kultur anzupassen, oder die Kultur wird zur ursprünglichen Struktur zurückgezogen. Es kann schwierig sein, vorherzusagen, was passieren wird.
 
-#### Dimensionen: Dezentralisierung und Autonomie
+### Dimensionen: Dezentralisierung und Autonomie
 
 Jetzt kommen wir zu den wichtigen Dingen. Wie werden Entscheidungen getroffen? Und wie werden sie ausgeführt?
 
@@ -52,8 +52,6 @@ Beispiele für kulturell autonome Entscheidungen:
 * Eine Gruppe von Teenagern veranstaltet eine wilde Hausparty, wenn ihre Eltern nicht in der Stadt sind.
 
 Eine Entscheidung, die in Abhängigkeit von der Kultur getroffen wird, ist eine Entscheidung, die von der Wahrnehmung der Entscheidungsträger beeinflusst wird, dass andere Instanzen in der Lage sind, die Entscheidung aufzuheben oder anderweitig zu ändern.
-
-
 
 **Autonome Struktur**
 
@@ -113,7 +111,7 @@ Beispiele für strukturell dezentralisierte Entscheidungsausführung:
 
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>dependent, autonomous execution</p></figcaption></figure>
 
-#### Zentralisierte Struktur & dezentralisierte Kultur
+### Zentralisierte Struktur & dezentralisierte Kultur
 
 Tokens ermöglichen es diesen Arten von Organisationen, viel grösser zu werden als je zuvor. Das ist erstaunlich, denn es hat das Potenzial, Tausende oder gar Millionen von Menschen in die Steuerung wichtiger Produkte und Protokolle einzubeziehen.
 

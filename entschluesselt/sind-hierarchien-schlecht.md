@@ -22,7 +22,7 @@ Mit dem Begriff der natürlichen Hierarchie habe ich mich bewusst erstmals mit d
 
 In ausserordentlichen-, oder in Krisenzeiten sind Menschen verunsichert und handeln nicht immer nach Vernunft. Je nach Ausmass der Krise kann das existenzielle, lebensbedrohliche oder gesellschaftliche Dimensionen annehmen, die dabei auch noch jeden unterschiedlich belasten. Gerade in Krisensituationen kann der situative Einsatz unterschiedlicher Führungsstile lohnend erscheinen, um erfolgreich diese zu meistern. In Ausnahmesituationen (z.B. Krieg) handeln Menschen sehr unterschiedlich, hier geht es um Ängste und Emotionen, nicht um Logik und Rationalität. In solchen Situationen bilden sich Menschen heraus, welche genau für diese Situation geboren worden zu sein scheinen. Diese übernehmen einfach Verantwortung und regeln Dinge, wo andere vor Angst in Schockstarre sitzen. In anderen Situationen kann es jedoch wieder komplett unterschiedlich sein, dann sind andere Qualitäten notwendig, um den Erfolg sicherzustellen. Es kommt also auf einen flexiblen und situativen Einsatz an. Eine Organisation sollte hier nicht dogmatisch sein, sondern existenzielle Flexibilität anstreben.
 
-#### hat eine DAO keine Hierarchien?
+### hat eine DAO keine Hierarchien?
 
 Community-zentriert oder demokratisch bedeutet nicht, dass es keine Hierarchie gibt. Es bedeutet nur, dass es bei der Hierarchie weniger um Menschen als vielmehr um die richtige kontextbezogene kollektive Stimme geht.
 

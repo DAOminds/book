@@ -12,7 +12,7 @@ Das Konzept, wie ein Netzwerkeffekt funktioniert, mag zunächst schwierig ersche
 
 Ein Netzwerk kann gross oder klein sein. Vor dem Internet war es schwer vorstellbar, dass Millionen von Menschen leicht zueinander finden können. Die digitalen Technologien und das Internet haben dies radikal verändert und das Rückgrat für ein globales Netz von miteinander verbundenen Netzwerken geschaffen. Mit DAOs und damit mit einer skalierbaren Governance, wird sich dieser Möglichkeit weiter entwickeln.
 
-#### Die Gesetze der Netzwerkeffekte
+### Die Gesetze der Netzwerkeffekte
 
 Es gibt einige bemerkenswerte Gesetze, die für das Verständnis von Netzwerken grundlegend sind.
 
@@ -24,7 +24,7 @@ Es gibt einige bemerkenswerte Gesetze, die für das Verständnis von Netzwerken 
 
 Sarnoff, Metcalfe und Reed haben einfache Gesetze aufgestellt, die beschreiben, wie der Wert eines Netzwerks in Abhängigkeit der Grösse und Form des Netzwerks wächst. Die so genannten Netzwerkeffektgesetze sind nicht unumstösslich. Einige Effekte passen nicht genau zu diesen Gesetzen, aber diese Gesetze helfen Netzwerke zu verstehen.
 
-#### nicht eines für alles
+### nicht eines für alles
 
 Verschiedene Geschäftsmodelle fördern unterschiedliche Netzwerkeffekte. Netzwerkeffekte können dabei direkt oder indirekt sein.
 
@@ -33,11 +33,11 @@ Verschiedene Geschäftsmodelle fördern unterschiedliche Netzwerkeffekte. Netzwe
 
 Uber nutzt beispielsweise die dynamische Preisgestaltung, um bei hoher Nachfrage mehr Fahrer und bei niedriger Nachfrage mehr Fahrgäste zu motivieren, sich dem Netzwerk anzuschliessen. Je nach Art des Unternehmens gibt es viele verschiedene Arten von Netzeffekten, die jeweils ihre Stärken und Schwächen haben.
 
-#### Netzwerkeffekte sind nicht gleichbedeutend wie Skaleneffekte
+### Netzwerkeffekte sind nicht gleichbedeutend wie Skaleneffekte
 
 Skaleneffekte entstehen, wenn ein genügendes Produktionsvolumen erreicht ist, um die Kosten massiv zu senken, so dass der grösste Akteur die beste Gewinnspanne erzielen kann. Ein gutes Beispiel hierfür ist die Produktion von Smartphones von Apple. Netzwerkeffekte unterscheiden sich von Skaleneffekten, weil sie einen grösseren Wert für den marginalen Kostenanstieg erzeugen. Wenn Netzwerke grösser werden, steigen die Kosten, aber der Wert des Produkts nimmt schneller zu. Zugegeben, ich weiss dass bei Apple gleich beide Effekte genutzt werden.
 
-#### Typen von Netzwerk-Effekten
+### Typen von Netzwerk-Effekten
 
 [Nfx](https://daominds.io/extnfxbible) hat bisher 13 verschiedene Arten von Netzwerkeffekten identifiziert. Dabei habe ich die Netzwerk-Effekte von Bitcoin direkt eingefügt. Warum, weil ich glaube dass diese in etwa ähnlich sind, wie bei einer DAO.
 
@@ -70,14 +70,14 @@ Skaleneffekte entstehen, wenn ein genügendes Produktionsvolumen erreicht ist, u
 * **Bandwagon** (bspw. Slack, Apple)\
    Der mögliche soziale Druck, einem Netzwerk beizutreten, führt dazu dass Menschen das Gefühl haben, nicht aussen vor bleiben zu wollen. Bei Bitcoin ist dieser Effekt sicherlich ausgeprägt.
 
-#### Schelling Point
+### Schelling Point
 
 Ein Schelling Point ist eine Lösung, die Menschen in Abwesenheit von Kommunikation eher verwenden, weil sie ihnen natürlich, besonders oder relevant erscheint". Die klassische Definition des Begriffs Schelling Point weist nicht direkt darauf hin, dass er für neue Kommunikationstechnologien von besonderer Bedeutung ist, aber meiner ehrlichen Meinung nach ist er es. Die nachfolgende Beschreibung ist eine Verallgemeinerung des Mechanismus, der abläuft, wenn der Markt auswählt, wer das Monopol übernehmen wird. In den ersten Jahren einer neu aufkommenden Technologie zeigen die Menschen vor allem aufgrund ihrer Neuartigkeit Interesse an ihr. Den Leuten war es egal, ob der neue graue Kasten unter ihrem Fernseher mit VHS oder Betamax kompatibel war, sie wollten einfach nur das Heimkinoerlebnis. Es ist schon schwer genug, herauszufinden, wie diese neue Technologie überhaupt Live-Sendungen aufzeichnen kann! Noch problematischer war, dass sie keine Anhaltspunkte oder Erfahrungen hatten, um die Qualität der angebotenen Produkte richtig einschätzen zu können. Der Schelling Point hatte sich noch nicht gezeigt. Aber als der Markt reifte, die Einsätze stiegen und die Verbraucher schlauer und informierter wurden, wollten die Leute ihre spezifische Auswahl an Filmen und sie wollten einen Universalrekorder, der sie alle abspielen konnte. Sie waren also gezwungen, strategische Entscheidungen zu treffen, denn sie wollten auf der Seite der Gewinner stehen! Wird mein Geschäft vor Ort hauptsächlich VHS oder Betamax anbieten? Und werde ich meinen Rekorder in 5 Jahren noch benutzen können? Nach bestem Wissen und Gewissen versuchten sie also, sich für das Netz zu entscheiden, das auf lange Sicht überleben würde. Sie versuchten aktiv, das Schelling-Punkt-Produkt zu wählen. Ein heranreifender Markt kann noch eine ganze Weile in Bewegung bleiben, aber wenn ein Schelling Point erst einmal in Schwung gekommen ist, kann es schnell gehen, und ein Lock-in steht unmittelbar bevor. Der freie Markt ist sehr intolerant gegenüber Protokollen, die sich zu weit von der Formel des engsten lebensfähigen Formats entfernen.
 
-#### Der Lindy-Effekt
+### Der Lindy-Effekt
 
 Der Lindy-Effekt ist das Konzept, dass die zukünftige Lebenserwartung einer Technologie proportional zu ihrem derzeitigen Alter ist. Er ist das Endstadium einer Kommunikationstechnologie und tritt in vollem Umfang in Kraft, sobald sie sich durchgesetzt hat. Ich glaube, die Hauptkraft des Lindy-Effekts liegt in der Unumkehrbarkeit erworbener Monopole durch Lock-in. Er verwandelt die gesunkenen Kosten aller Teilnehmer insgesamt in einen intoleranten und dauerhaften Status quo, der durch Konsensbildung auf dem freien Markt geschaffen wird. Besonders gute Beispiele von Protokollen, die vom Lindy-Effekt profitiert haben, sind TCP/IP, HTML und HTTP.
 
-#### Konklusion
+### Konklusion
 
 Die Netzeffekte, der Lindy-Effekt und der Schelling-Punkt sind Facetten eines übergreifenden Phänomens, nämlich der Übernahme eines monopolistischen Kommunikationsprotokolls durch den freien Marktwettbewerb im Laufe der Zeit. Der Kommunikationsmonopoleffekt, wenn du willst. Mit dem Aufkommen von Bitcoin wird immer deutlicher, dass sich der Lindy Cycle des Dollars seinem Ende nähert. Wir müssen für das Timing dieses Ereignisses dankbar sein, denn ich glaube, dass es immer noch möglich ist, auf Bitcoin umzusteigen, bevor die derzeitige Spätphase des Goldstandards vollständig zusammenbricht. Bitcoin ist der Gipfel dessen, wozu menschliches Streben und technologischer Fortschritt fähig sind, da er eine Vielzahl von Bereichen wie Kryptographie, Politik, verteilte Systeme, Wirtschaft, Spieltheorie usw. zusammenbringt. Wir haben Tausende von Jahren gebraucht, um einen würdigen Nachfolger für Gold als unser Geldprotokoll zu finden, und daher denke ich, dass es vernünftig ist, davon auszugehen, dass der Lindy-Zyklus von Bitcoin noch mindestens Hunderte von Jahren lang herrschen wird.

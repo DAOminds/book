@@ -19,7 +19,7 @@ In ähnlicher Weise lässt sich das Universum der für das DAO-Treasury protocol
 | Native Token Sale          | Verkauf von vorhandenen Token z.h. der Finanzen des DAO         |
 | Fremdfinanzierung          | mit Sicherheiten durch die eigenen Token oder ohne Sicherheiten |
 
-#### Notwendigkeit der Verwaltung der Finanzmittel
+### Notwendigkeit der Verwaltung der Finanzmittel
 
 Viele DAOs halten fast ihr gesamtes Finanzvermögen in den Tokens des Protokolls. Da die Betriebskosten aller DAOs häufig in Fiat-Währungen anfallen, könnten DAOs im Falle eines weiteren mehrjährigen Krypto-Winters gezwungen sein, Vermögenswerte zu "Liquidationspreisen" zu verkaufen, um ihre aktuellen Verpflichtungen zu erfüllen, was zu einer weiteren Abwärtsspirale im Preis des nativen Tokens führen könnte. Folglich ist ein sorgfältiges Cash-Management durch die intelligente Generierung mehrerer Einnahmeströme (operativ und nicht-operativ) und die Finanzierung der DAO durch Verkäufe oder Schulden, zusätzlich zu einbehaltenen Gewinnen, für DAOs von grösster Bedeutung, die hoffen, ihre Protokolle durch Bärenmärkte von mehreren Jahren und in der Ewigkeit angemessen zu unterstützen. Im DeFi-Umfeld gibt es hierfür unzählige Möglichkeiten.
 
@@ -41,7 +41,7 @@ Die Vermögenswerte der DAO sollten diversifiziert werden und sich an dien Ziele
 * Vermögensallokation, wie sollen die Vermögenswerte diversifiziert werden, um die wichtigsten Entwicklungen des Protokolls unabhängig vom Marktumfeld zu finanzieren?
 * Berichterstattung, Finanzberichte der DAO und Zusammenfassung der wichtigsten Transaktionen
 
-#### Wirkungsfelder in einer DAO
+### Wirkungsfelder in einer DAO
 
 Die finanziellen Wirkungen einer DAO könnten vereinfacht wie im folgenden Kreislauf dargestellt werden. Die Beiträge bzw. Anteile aus Protokollen und Partnern erzeugen Erträge in einer DAO, über Entscheide, Upgrades an Protokollen wird wiederum das Wachstum des Ökosystems angestossen.
 

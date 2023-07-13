@@ -12,7 +12,7 @@ Es gibt einen Punkt, an welchem du für dein Engagement auch „bezahlt“ werde
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>onboarding</p></figcaption></figure>
 
-#### Wahl des Fachgebiets
+### Wahl des Fachgebiets
 
 Wenn es darum geht, für eine DAO zu arbeiten, kann es schwierig sein, zu wissen, wo man anfangen soll. Auf einer hohen Flughöhe könnte das nachfolgende Bild - angelehnt an Ikigai - helfen zu identifizieren was dich an der Sache reizen könnte.
 
@@ -31,7 +31,7 @@ Die gute Nachricht ist, dass es unkomplizierter ist, als du vielleicht denkst. Z
 
 Diese Liste ist natürlich bei weitem nicht vollständig. Spieldesigner, digitale Vermarkter und alle möglichen anderen Funktionen sind für DAOs nützlich.
 
-#### Die richtige Rolle finden
+### Die richtige Rolle finden
 
 Wie findet man offene Stellen in der Welt der DAOs? Die Realität ist, dass es keinen formalen Findungsprozess gibt, da die meisten Möglichkeiten zufällig auf Twitter, in geschlossenen Discord-Chats oder in Krypto-Podcasts auftauchen. Obwohl diese Undurchsichtigkeit den Einstieg erschwert, kann das Fehlen einer "Jobbörse" eher ein Vorteil als ein Nachteil sein. Menschen finden Gelegenheiten, die sie interessieren, indem sie sich zuerst in Gemeinschaften engagieren, denen sie vertrauen.
 
