@@ -8,13 +8,13 @@ Es gibt sehr viel verschiedene Definitionen, wie sich das Internet entwickelt ha
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>evolution of web</p></figcaption></figure>
 
-Web1 - Information Economy 1980-2005
+### Web1 - Information Economy 1980-2005
 
 Das World-Wide-Web, hat Informationen revolutioniert. Die meisten Teilnehmer waren Konsumenten von Inhalten, und die Ersteller waren in der Regel Entwickler, die Websites erstellten, die Informationen hauptsächlich in Text- oder Bildformaten enthielten.
 
 Web1 bestand aus Websites, die statische Inhalte anstelle von dynamischem HTML bereitstellten. Daten und Inhalte wurden eher aus einem statischen Dateisystem als aus einer Datenbank bereitgestellt, und die Websites waren kaum interaktiv. Auch waren die Informationen in aller Regel nur lesbar- und nicht bearbeitbare.
 
-**Merkmale des Web1:**
+#### **Merkmale des Web1:**
 
 * statische Seiten im Lesezugriff
 * der Inhalt wird aus dem Dateisystem des Servers bereitgestellt
@@ -28,11 +28,11 @@ Web1 bestand aus Websites, die statische Inhalte anstelle von dynamischem HTML b
 
 > « Hätte man die Menschen 1989 gefragt, was sie brauchen, um ihr Leben zu verbessern, hätten sie wahrscheinlich nicht gesagt, dass sie ein dezentralisiertes Netz von Informationsknoten brauchen, die über Hypertext miteinander verbunden sind. »
 
-#### Web2 - Platform Economy 2005-2020
+### Web2 - Platform Economy 2005-2020
 
 Das Internet ist mit Web2 reifer geworden. Die Anwendungen sind komplexer geworden. Interaktive Anwendungen mit der Möglichkeit n:n zu kommunizieren. Waren können gekauft werden, es kann aber auch gemeinsam Wissen (z.B. Wikipedia) erarbeitet werden. Das Web2, auch bekannt als partizipatives oder soziales Web, hat die Welt von statischen Desktop-Webseiten, die für den Informationskonsum bestimmt sind, zu interaktiven Erfahrungen und nutzergenerierten Inhalten geführt, die uns Uber, AirBnB, Facebook und Instagram beschert haben. Wenn Web1 die Britannica Online ist, dann ist Web2 Wikipedia. Der Begriff «Web 2.0» wurde von Tim O'Reilly auf der ersten O'Reilly Media Web 2.0 Conference Ende 2004 eingeführt und ist die Version des Webs, mit der wir heute vertraut sind. Web2 bezieht sich im Kern nicht auf eine technische Revolution, sondern auf die Änderung der Art und Weise, wie Webseiten gestaltet und genutzt werden. Das Web2 war im Wesen einen Front-End-Revolution bzw. eine Revolution der Interaktion. Auf der Protokoll-Ebene hat sich nichts geändert.
 
-**Merkmale des Web2:**
+#### **Merkmale des Web2:**
 
 * Informationen können gelesen- und auch geschrieben werden
 * Daten werden zentralisiert gehalten
@@ -44,13 +44,13 @@ Das Internet ist mit Web2 reifer geworden. Die Anwendungen sind komplexer geword
 * ausgewachsenes eCommerce
 * das veröffentlichte Web
 
-#### Web3 - Ownership (Token) Economy 2020+
+### Web3 - Ownership (Token) Economy 2020+
 
 Wenn das Web2 die Revolution im Front-End darstellt, dann ist das Web3 die Revolution im Hintergrund. Mit Web3 ändert sich am Front-End wenig. Bei Web3 ist das Netzwerk dezentralisiert, d.h. es wird nicht von einer Authorität kontrolliert, und die dezentralen Anwendungen (dapps), die auf dem Netzwerk aufbauen, sind offen. Die Offenheit des dezentralen Webs bedeutet, dass keine einzelne Partei Daten kontrollieren oder den Zugang beschränken kann. Jeder ist in der Lage, ohne die Erlaubnis eines zentralen Unternehmens verschiedene Dapps zu erstellen und sich mit ihnen zu verbinden.
 
 Zentralisierte Plattformen haben in Web2 so lange dominiert, dass viele Menschen vergessen haben, dass es einen besseren Weg gibt, Internetdienste aufzubauen. Kryptonetzwerke sind ein leistungsfähiger Weg, um Netzwerke in Gemeinschaftsbesitz zu entwickeln und gleiche Wettbewerbsbedingungen für Entwickler, Schöpfer und Unternehmen von Drittanbietern zu schaffen. Wir haben den Wert dezentraler Systeme in der ersten Ära des Internets gesehen. Hoffentlich werden wir sie in der nächsten Ära wieder sehen.
 
-**Merkmale von Web3:**
+#### **Merkmale von Web3:**
 
 * offen, weil sie auf der Grundlage von Open-Source-Software von einer offenen Gemeinschaft von Entwicklern aufgebaut werden
 * Trustless, weil das Netz den Teilnehmern erlaubt, ohne eine vertrauenswürdige dritte Partei zu interagieren.
@@ -66,7 +66,7 @@ Zentralisierte Plattformen haben in Web2 so lange dominiert, dass viele Menschen
 
 Mit Web3 wird der Anwendungs-Layer vom Protokoll-Layer entkoppelt. Das basierende Protokoll ist so gross geworden, dass der Anwendungs-Layer kleiner wird.
 
-#### Konklusion
+### Konklusion
 
 Web1 und Web2 ermöglichten die Gründung wirklich globaler Unternehmen, indem sie die Latenzzeit und die Kosten, für den Austausch von Informationen, radikal verringerten. Diese Informationen werden über eine Reihe von vertrauenswürdigen Dritten gehandelt. Mit Web3 werden Einzelpersonen, Unternehmen und Maschinen in der Lage sein, Informationen mit anderen Parteien auszutauschen, die sie nicht kennen oder denen sie nicht vertrauen, ohne einen Vermittler. Web3 wird es uns ermöglichen, mit jeder Person auf der Welt zu interagieren, ohne unsere Daten an Mittelsmänner weitergeben zu müssen. Dieser Wandel wird eine ganz neue Welle von bisher unvorstellbaren Geschäftsmodellen ermöglichen: von dezentralen autonomen Organisationen bis hin zu selbstverwalteten Datenmarktplätzen.
 

@@ -19,6 +19,8 @@ Die wirklich wichtige Frage sollte aber viel grösser sein als das:
 * wie werden wir die Schaffung von Dutzenden von Billionen an neuen Werten erleben, wie wir es in den letzten 150 Jahren mit dem Aktienmarkt getan haben?
 
 Die Antwort liegt darin, wie Krypto die Tragödie der Gemeingüter in Reichtum der Allgemeinheit verwandeln kann. \
+
+
 **Solange wir neue Wege der Wertschöpfung entdecken, werden natürlich auch neue Arten von Unternehmen entstehen.**
 
 Krypto schafft im Wesentlichen ein skalierbares Governance-Modell für Gemeingüter. Gemeingüter scheitern heute an einer fehlenden skalierbaren Governance, weil es keine zentrale Kontrolle durch ein Unternehmen oder eine Regierung gibt. Stattdessen ist man auf informelle Beziehungen zwischen Menschen beschränkt, welche sich untereinander kennen. Eines der grössten Wertversprechen des Krypto-Ökosystems ist eine skalierbare Governance ohne informelles, lokal begrenztes Vertrauen. Dies ist eine Ähnlich grosse Idee, wie ein skalierbarer Aktienmarkt, damals vor rund 150 Jahren.
