@@ -16,10 +16,9 @@ Die wirklich wichtige Frage sollte aber viel grösser sein als das:
 
 * wie können kryptobasierte Unternehmen neue Arten von Wohlstand schaffen?
 * wie werden Blockchains unseren Lebensstandard exponentiell vorantreiben?
-* wie werden wir die Schaffung von Dutzenden von Billionen an neuen Werten erleben, wie wir es in den letzten 150 Jahren mit dem Aktienmarkt getan haben?
+* werden wir die Schaffung von Dutzenden von Billionen an neuen Werten erleben, wie wir es in den letzten 150 Jahren mit dem Aktienmarkt getan haben?
 
-Die Antwort liegt darin, wie Krypto die Tragödie der Gemeingüter in Reichtum der Allgemeinheit verwandeln kann. \
-
+Die Antwort liegt darin, wie Krypto die Tragödie der Gemeingüter in Reichtum der Allgemeinheit verwandeln kann.&#x20;
 
 **Solange wir neue Wege der Wertschöpfung entdecken, werden natürlich auch neue Arten von Unternehmen entstehen.**
 
