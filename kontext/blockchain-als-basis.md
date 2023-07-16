@@ -31,7 +31,7 @@ Eine Blockchain wird eingesetzt, wenn es keine einzige Partei gibt, der alle ver
 * Im Fall von Bitcoin wird die Blockchain dezentralisiert eingesetzt, so dass keine einzelne Person oder Gruppe die Kontrolle hat, sondern alle Nutzer gemeinsam die Kontrolle behalten.
 * Dezentralisierte Blockchains sind unveränderlich, was bedeutet, dass die eingegebenen Daten unumkehrbar sind. Für Bitcoin bedeutet dies, dass Transaktionen dauerhaft aufgezeichnet werden und für jeden einsehbar sind.
 
-Eine der Besten Erklärungen der Blockchain-Prinzipien welche ich je gesehen habe, ist von Dan Boneh ([Blockchain Primitives: Cryptography and Consensus](https://daominds.io/danbonehblockchainprimitives)), auch wenn teils technisch etwas anspruchsvoller.
+Eine der Besten Erklärungen der Blockchain-Prinzipien welche ich je gesehen habe, ist von Dan Boneh ([Blockchain Primitives: Cryptography and Consensus](../takeaways/empfehlung-videos/blockchain-fundamentals.md)), auch wenn teils technisch etwas anspruchsvoller.
 
 ### Sidechains
 
