@@ -1,4 +1,4 @@
-# blockchain primitives: cryptography and consensus
+# blockchain fundamentals
 
 
 
