@@ -4,7 +4,7 @@ description: ihre jeweiligen Anwendungen und Potenziale
 
 # verschiedene dao typen
 
-Heute gibt es mehr als [210 DAOs, die ein Vermögen von über 18 Milliarden](https://daominds.io/extdeepdaodashboard) Dollar verwalten. Und zum Zeitpunkt an welchem du das liest, stimmt diese Aussage sicherlich nicht mehr. Ich versuche nachfolgende die verschiedenen Typen von DAOs zu typisieren.
+Heute gibt es mehr als [210 DAOs, die ein Vermögen von über 22 Milliarden](https://daominds.io/extdeepdaodashboard) Dollar verwalten. Und zum Zeitpunkt an welchem du das liest, stimmt diese Aussage sicherlich nicht mehr. Ich versuche nachfolgende die verschiedenen Typen von DAOs zu typisieren.
 
 ### DAO Operating Systems
 
