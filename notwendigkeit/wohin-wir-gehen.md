@@ -70,7 +70,7 @@ An die Goldthematik denke ich immer dann, wenn meine Gesprächspartner damit arg
 
 ### Wirtschaftliche Zyklen und Reaktionen
 
-Der Film [The Great Reset and the Rise](https://daominds.io/resetandtheriseofbitcoin) beschreibt basierend auf Arthur F. Burns und Wesley C. Mitchell dass der Konjunkturzyklus eine Art Fluktuation in der gesamtwirtschaftlichen Aktivität von Nationen ist. Die Konjunktur besteht aus Expansionen, die in vielen Wirtschaftszweigen etwa zur gleichen Zeit auftreten, gefolgt von ähnlichen allgemeinen Rezessionen. Die Abfolge der Veränderungen ist wiederkehrend, aber nicht periodisch.
+Der Film [The Great Reset and the Rise](../takeaways/empfehlung-videos/the-great-reset-and-the-rise-of-bitcoin.md) beschreibt basierend auf Arthur F. Burns und Wesley C. Mitchell dass der Konjunkturzyklus eine Art Fluktuation in der gesamtwirtschaftlichen Aktivität von Nationen ist. Die Konjunktur besteht aus Expansionen, die in vielen Wirtschaftszweigen etwa zur gleichen Zeit auftreten, gefolgt von ähnlichen allgemeinen Rezessionen. Die Abfolge der Veränderungen ist wiederkehrend, aber nicht periodisch.
 
 Die Zentralbanken haben dabei 3 Möglichkeiten zwecks Reaktion auf Probleme in diese Zyklen:
 
