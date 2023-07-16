@@ -47,7 +47,7 @@ Bei der Tokenisierung von Derivaten handelt es sich um sekundäre Wertpapiere, d
 
 #### Defi-Börsen
 
-Defi Exchanges (DEX) ist eine Art von Defi-Anwendung, die es den Nutzern ermöglicht, sich Geld von anderen zu leihen oder zu verleihen, sich gegen Risiken zu versichern, mit Kryptowährungen zu handeln und Zinsen aus Ersparnissen auf Konten zu verdienen. Im Gegensatz zu anderen regulären Krypto-Börsen betreiben die Defi-Börsen keine verwahrten Geldbörsen. Stattdessen verbinden sich die Nutzer der Plattform über Web3-Browser-Erweiterungen wie \[Binance] Chain Wallet und \[MetaMask]. Sobald die Verbindung hergestellt ist, kann man sofort mit dem Austausch von Kryptowährungen beginnen. Die Defi-Börsen bieten eine einfach zu bedienende Plattform mit mehreren Anwendungsfällen. Im Gegensatz zu anderen Börsen, die Depot-Wallets betreiben, müssen die Defi-Börsen keine KYC-Protokolle (Know Your Customer) befolgen, was den Einstieg in den Handel erleichtert.
+Defi Exchanges (DEX) ist eine Art von Defi-Anwendung, die es den Nutzern ermöglicht, sich Geld von anderen zu leihen oder zu verleihen, sich gegen Risiken zu versichern, mit Kryptowährungen zu handeln und Zinsen aus Ersparnissen auf Konten zu verdienen. Im Gegensatz zu anderen regulären Krypto-Börsen betreiben die Defi-Börsen keine verwahrten Geldbörsen. Stattdessen verbinden sich die Nutzer der Plattform über Web3-Browser-Erweiterungen wie Binance Chain Wallet und \[MetaMask]. Sobald die Verbindung hergestellt ist, kann man sofort mit dem Austausch von Kryptowährungen beginnen. Die Defi-Börsen bieten eine einfach zu bedienende Plattform mit mehreren Anwendungsfällen. Im Gegensatz zu anderen Börsen, die Depot-Wallets betreiben, müssen die Defi-Börsen keine KYC-Protokolle (Know Your Customer) befolgen, was den Einstieg in den Handel erleichtert.
 
 #### Stablecoins
 
@@ -55,7 +55,7 @@ Ein Stablecoin (z.B. USDC) ist eine digitale Währung, die an einen „stabilen�
 
 #### Savings
 
-Aufgrund der hohen Inflationsrate von Fiat-Währungen und der niedrigen Zinssätze ist das Sparen in der heutigen Wirtschaft zu einer Herausforderung geworden. Tatsächlich suchen die risikoscheuen Bürger der Mittelschicht auf der ganzen Welt verzweifelt nach alternativen Anlage-/Sparlösungen. Verschiedene dezentralisierte Finanzprojekte (DeFi) haben die Gelegenheit genutzt, um neue Lösungen vorzustellen. Projekte wie \[PoolTogether], \[Dharma] oder \[Argent] sind mit ihrer verlustfreien Sparideologie vielversprechend.
+Aufgrund der hohen Inflationsrate von Fiat-Währungen und der niedrigen Zinssätze ist das Sparen in der heutigen Wirtschaft zu einer Herausforderung geworden. Tatsächlich suchen die risikoscheuen Bürger der Mittelschicht auf der ganzen Welt verzweifelt nach alternativen Anlage-/Sparlösungen. Verschiedene dezentralisierte Finanzprojekte (DeFi) haben die Gelegenheit genutzt, um neue Lösungen vorzustellen. Projekte wie [PoolTogether](https://daominds.io/extpooltogether), [Dharma](https://daominds.io/extdharma) oder [Argent](https://daominds.io/extargent) sind mit ihrer verlustfreien Sparideologie vielversprechend.
 
 ### Verbesserte Digitale Identität
 
