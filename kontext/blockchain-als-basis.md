@@ -94,8 +94,8 @@ Leider scheint momentan nur der Proof-of-Work Mechanismus und damit bspw. Bitcoi
 * vergleichen wird die Marktkapitalisierung von Bitcoin und der S\&P Unternehmen und deren Energiebedarf, nutzt Bitcoin einen Bruchteil derer
 * das globale Bankensystem verbraucht jährlich über 600 TWh an Energie
 * die Goldbergbauindustrie hat im Jahr 2020 für die Produktion der gut 3’000 Tonnen an neuem Gold insgesamt 265 TWh an Energie verbraucht, die Stock to Flow Ratio bei Gold ist im übrigen bei rund 58, die von Bitcoin aktuell bei 53 und nach wird nach dem nächsten Bitcoin-Halving (2024) bei über 100 sein
-* weniger als 1 % des globalen Stromverbrauchs von 27 PWh (Petawattstundenn) oder der 27’000 TWh werden vom Bitcoin Netzwerk genutzt, der globale Energiebedarf, Strom ist ein Teil davon beläuft sich auf rund 160 PWh (Bitcoin 0.14% hiervon)
-* der Energieverbrauch des Bitcoin-Netzwerks entsprechen in etwa dem was global die „Lichterketten“ (Holiday Lights) oder die gespielten Computerspiele verbrauchen
+* weniger als 1 % des globalen Stromverbrauchs von 27 PWh (Petawattstundenn) oder 27’000 TWh werden vom Bitcoin Netzwerk genutzt, der globale Energiebedarf, Strom ist ein Teil davon beläuft sich auf rund 160 PWh (Bitcoin 0.14% hiervon)
+* der Energieverbrauch des Bitcoin-Netzwerks entsprechen in etwa dem, was global die „Lichterketten“ (Holiday Lights) oder die gespielten Computerspiele verbrauchen
 * der derzeitige Energieverbrauch von Bitcoin entspricht in etwa dem der Kreuzfahrtindustrie
 * weltweit gibt es aktuell rund 8 Mio. Elektroautos, dies entspricht einem Anteil von 0,6% der global rund 1,4 Mrd. Fahrzeugen und einem Energiekonsum von 90 TWh. Was wäre wenn rund 10% der Autos global Elektroautos wären?
 
