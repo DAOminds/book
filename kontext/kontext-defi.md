@@ -29,7 +29,7 @@ Das traditionelle Finanzsystem hat versucht, Geldwäsche (AML) und Terrorismusfi
 
 #### Daten und Analytik
 
-Die Transparenz in den Defi-Protokollen ermöglicht den Zugang zu allen Netzwerkdaten und Transaktionsaktivitäten. Die Daten werden dann analysiert, um fundierte Geschäftsentscheidungen zu treffen, neue finanzielle Möglichkeiten zu entdecken und das Risikomanagement zu verbessern. Es gibt bereits verschiedene Datenanalyse-Dashboards wie \[Defi Pulse] und \[CoDefi] Data, die den Defi-Benutzern die benötigten Details der Datenanalyse liefern. Der Cloud dabei, die Informationen stehen für alle offen und nicht nur für spezifische Gruppierungen.
+Die Transparenz in den Defi-Protokollen ermöglicht den Zugang zu allen Netzwerkdaten und Transaktionsaktivitäten. Die Daten werden dann analysiert, um fundierte Geschäftsentscheidungen zu treffen, neue finanzielle Möglichkeiten zu entdecken und das Risikomanagement zu verbessern. Es gibt bereits verschiedene Datenanalyse-Dashboards wie [Defi Pulse](https://daominds.io/extdefipulse) und [CoDefi](https://daominds.io/extcodefi) Data, die den Defi-Benutzern die benötigten Details der Datenanalyse liefern. Der Cloud dabei, die Informationen stehen für alle offen und nicht nur für spezifische Gruppierungen.
 
 #### Versicherung
 
