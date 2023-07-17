@@ -2,7 +2,7 @@
 
 
 
-{% embed url="https://youtu.be/v1Z5BnBuFyE" %}
+{% embed url="https://youtu.be/v1Z5BnBuFyE" fullWidth="true" %}
 by rest news
 {% endembed %}
 
