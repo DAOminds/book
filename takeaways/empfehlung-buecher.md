@@ -27,6 +27,7 @@ Nachfolgend einige Bücher welche im Kontext dieses Buches als weiterführende L
 * [Seven Rules for Sustainable Communities: Design Strategies for the Post Carbon World](https://daominds.io/bksevenrulesforsustainable) by Patrick M. Condon&#x20;
 * [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://daominds.io/bksoftwar) by Jason Paul Lowery
 * [Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology](https://daominds.io/bkstepstoanecologyofmind) by Gregory Bateson&#x20;
+* [The Fiat Standard: Debt Slavery Alternative to Human Civilization](https://daominds.io/bkfiatstandard) by Saifedean Ammous
 * [The Fifth Discipline: The Art & Practice of The Learning Organization](https://daominds.io/bkthefifthdiscipline) by Peter M. Senge&#x20;
 * [The Professional and In Depth Guide to Mastering DAO](https://daominds.io/bktheprofessionalandindepthguidetomasteringdao) by Robert Samuel&#x20;
 * [The Self Sovereign Individual](https://daominds.io/bktheselfsovereignindividual) by James Dale Davidson&#x20;
