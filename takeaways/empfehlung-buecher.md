@@ -16,12 +16,18 @@ Nachfolgend einige Bücher welche im Kontext dieses Buches als weiterführende L
   Eine einflussreiche Arbeit, die die Entstehung von Kredit in Zusammenhang mit dem Aufstieg der Klassengesellschaft stellt. Es untersucht die Geschichte von Schulden und Wirtschaftstransaktionen
 * [Good Money: Birmingham Button Makers, the Royal Mint, and the Beginnings of Modern Coinage](https://daominds.io/bkgoodmoney) by George Selgin \
   Erzählt die faszinierende Geschichte der Herausforderung britischer Hersteller an das Münzmonopol der Krone. Es beleuchtet die Rolle von Technologie und alternativen Währungen in der industriellen Revolution.
-* [Economics and Math of Token Engineering and DeFi](https://daominds.io/bkeconomicsandmathoftoken) by Lisa jy Tan \[Elastic Enterprise] by Nicholas Vitalari&#x20;
-* [Emergent Strategy: Shaping Change, Changing Worlds](https://daominds.io/bkelasticenterprise) by adrienne maree brown&#x20;
-* [Governing the Commons](https://daominds.io/bkgoverningthecommons) by Elinor Ostrom&#x20;
-* [Here Comes Everybody: The Power of Organizing Without Organizations](https://daominds.io/bkherecomeseverybody) by Clay Shirky
-* [Humanizing the Economy: Co-operatives in the Age of Capital](https://daominds.io/bkhumanizingtheeconomy) by John Restakis&#x20;
-* [Humanocracy: Creating Organizations as Amazing as the People Inside Them](https://daominds.io/bkhumanocracycreationorganizations) by Gary Hame-&#x20;
+* [Economics and Math of Token Engineering and DeFi](https://daominds.io/bkeconomicsandmathoftoken) by Lisa jy Tan\
+  Untersucht die Grundprinzipien der Ökonomie in Web 3.0. Es erforscht die Evolution der Ökonomie, die Veränderung der Prinzipien, die wir in Econs 101 gelernt haben, und die neue Umgebung, in der die Ökonomie existieren wird. Es zeigt auch, wie diese Prinzipien in Web 3.0 angewendet werden können, mit oder ohne Token. Es ist für alle zugänglich, nicht nur für Ökonomen oder Technologen.
+* [The Elastic Enterprise](https://daominds.io/bkelasticenterprise) by Haydn Shaughnessy & Nicholas Vitalari\
+  Eine neue Perspektive auf Geschäftsstrategien im 21. Jahrhundert. Es untersucht, wie erfolgreiche Unternehmen wie Apple und Amazon ganze Branchen durch innovative Geschäftsmodelle und Plattformstrategien verändert haben. Das Buch bietet Einblicke in die Prinzipien, die diese Veränderungen ermöglichen, und fordert die Leser auf, diese Prinzipien in ihren eigenen Kontexten anzuwenden
+* [Governing the Commons](https://daominds.io/bkgoverningthecommons) by Elinor Ostrom \
+  Untersucht die Verwaltung von Gemeingütern und stellt fest, dass weder staatliche Kontrolle noch Privatisierung immer erfolgreich sind. Sie verwendet institutionelle Analysen, um verschiedene Ansätze zur Verwaltung der Gemeingüter zu untersuchen und stellt fest, dass freiwillige Organisationen manchmal erfolgreicher sind als ein zwanghafter Staat. Sie analysiert Fälle wie gemeinschaftliche Landnutzung, Bewässerungsgemeinschaften und Fischereirechte.
+* [Here Comes Everybody: The Power of Organizing Without Organizations](https://daominds.io/bkherecomeseverybody) by Clay Shirky\
+  Uuntersucht die Auswirkungen der Internetrevolution auf Organisationen und politische Gruppen. Es vergleicht die Transformation durch das Web und soziale Netzwerke mit den Umwälzungen durch die Erfindung des Buchdrucks. Das Buch untermauert anhand zahlreicher Beispiele die These, dass das Internet zu mehr Freiheit, Wissen und Initiative führt. Es ist ein fundiertes Werk, das sich mit den gesellschaftlichen Konsequenzen der Mikrocomputer-Revolution beschäftigt.
+* [Humanizing the Economy: Co-operatives in the Age of Capital](https://daominds.io/bkhumanizingtheeconomy) by John Restakis\
+  Tiefgehende Studie über die Rolle von Genossenschaften in der globalen Wirtschaft. Es argumentiert, dass Genossenschaften eine echte Alternative zum Finanzkapitalismus bieten können, indem sie die Wirtschaft demokratisieren und menschlicher gestalten. Es verbindet Geschichte, Ideen und aktuelle Kämpfe in einer persönlichen und leidenschaftlichen Darstellung.
+* [Humanocracy: Creating Organizations as Amazing as the People Inside Them](https://daominds.io/bkhumanocracycreationorganizations) by Michele Zanini & Gary Hamel\
+  Aufruf zur Abschaffung der Bürokratie in Organisationen. Es argumentiert, dass bürokratische Strukturen die menschliche Autonomie, Resilienz und Kreativität untergraben. Das Buch bietet eine detaillierte Kritik an Bürokratie und zeigt auf, wie Organisationen umgestaltet werden können, um das Potenzial ihrer Mitarbeiter voll auszuschöpfen. Es ist ein praktischer Leitfaden zur Schaffung von Arbeitsumgebungen, die jedem die Möglichkeit geben, sich zu entfalten.&#x20;
 * [Impact Networks: Create Connection, Spark Collaboration, and Catalyze Systemic Change](https://daominds.io/bkimpactnetworkscreateconnection) by David Ehrlichman&#x20;
 * [Mutual Aid: A Factor of Evolution](https://daominds.io/bkmutualaidafactorofevolution) by Peter Kropotkin&#x20;
 * [Paradoxes of Group Life: Understanding Conflict, Paralysis, and Movement in Group Dynamics](https://daominds.io/bkparadoxesofgrouplife) by Kenwyn K. Smith
@@ -38,7 +44,7 @@ Nachfolgend einige Bücher welche im Kontext dieses Buches als weiterführende L
 * [The Self Sovereign Individual](https://daominds.io/bktheselfsovereignindividual) by James Dale Davidson&#x20;
 * [The Ultimate Beginner's Guide](https://daominds.io/bktheultimatebeginnersguide) by Alex Anderson&#x20;
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://daominds.io/bkthewealthofnetworks) by Yochai Benkler \
-  Uuntersucht die Auswirkungen des Internets auf die Gesellschaft und Wirtschaft. Es zeigt, wie die Netzwerkgesellschaft, wenn sie gedeihen darf, mehr Wert schafft als ein Eigentumssystem. Es ist ein umfassendes Werk, das Technologie, Wirtschaft und Recht verbindet.
+  Untersucht die Auswirkungen des Internets auf die Gesellschaft und Wirtschaft. Es zeigt, wie die Netzwerkgesellschaft, wenn sie gedeihen darf, mehr Wert schafft als ein Eigentumssystem. Es ist ein umfassendes Werk, das Technologie, Wirtschaft und Recht verbindet.
 * [The Wealth of the Commons: A World Beyond Market & State](https://daominds.io/bkthewelathofthecommons) by David Bollier \
   Eine Sammlung von 73 Essays, die die Kämpfe gegen die Privatisierung gemeinsamer Ressourcen dokumentieren und die immense generative Kraft der Gemeingüter aufzeigen. Es bietet Alternativen zu zentralisierten Hierarchien und Märkten.
 * [Token Economy: How the Web3 reinvents the Internet](https://daominds.io/bktokeneconomyhowtheweb3reinventstheinternet) by Sherman Voshmgir\
