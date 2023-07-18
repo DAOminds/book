@@ -1,7 +1,5 @@
 ---
-description: >-
-  teilt Einschätzungen zur zukünftigen Entwicklung von DAOs und der
-  Token-Ökonomie
+description: zur zukünftigen Entwicklung von DAOs und der Token-Ökonomie
 ---
 
 # meine prognosen
