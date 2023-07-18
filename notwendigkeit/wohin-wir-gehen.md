@@ -4,7 +4,8 @@ description: oder die wirtschaftlichen Herausforderungen und die Rolle digitaler
 
 # wohin wir gehen
 
-Die Aufgaben der Staaten steigen, die Staatsverschuldung steigt, die Geldmenge steigt, die digitalen Währungen ausgegeben vom Staat, sollen die Lösung sein?
+Die Aufgaben der Staaten steigen, die Staatsverschuldung steigt, die Geldmenge steigt, die digitalen Währungen ausgegeben vom Staat, sollen die Lösung sein? \
+Wusstest du bspw. dass die Steuern in der heutigen Form in den USA erst seit 1913 existieren? Im Jahr 1861 führte die Regierung der Vereinigten Staaten während des Bürgerkriegs eine Einkommensteuer ein, um die Kriegsanstrengungen zu finanzieren. Diese Einkommensteuer wurde jedoch 1872 ausgesetzt und später vom Obersten Gerichtshof für verfassungswidrig erklärt. Mit dem 16. Zusatzartikel zur Verfassung der Vereinigten Staaten wurde die moderne Form der Einkommensteuer 1913 eingeführt. Strassen, Schulen, Eisenbahnlinien etc. exitierten aber bereits vorher.
 
 ### Wenn der Staat immer mehr Geld ausgibt
 
