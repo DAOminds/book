@@ -1,5 +1,5 @@
 ---
-description: eine Auswahl von Videos, für weiterführende Informationen
+description: für weiterführende Informationen
 ---
 
 # empfehlung videos

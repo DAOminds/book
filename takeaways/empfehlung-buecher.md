@@ -1,5 +1,5 @@
 ---
-description: bietet eine Liste von Büchern, für eine weiterführende Lektüre
+description: zur weiterführenden Lektüre
 ---
 
 # empfehlung bücher
