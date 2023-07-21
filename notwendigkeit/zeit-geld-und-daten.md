@@ -81,7 +81,7 @@ Ob Vorratsdatenspeicherung, Staatstrojaner, automatische Gesichtserkennung, Nutz
 
 Die Argumentation ist immer die selbe, es geht darum Straftaten früh zu erkennen, Kinderpornographie zu vermeiden oder Terror zu verhindern. Stellt man mit einer anderen Meinung da, kommt prompt: Wer nichts verbrochen hat, hat auch nichts zu befürchten – oder?
 
-Das [Plenarsitzungsdokuement](https://daominds.io/extplenarsitzungeu2017) aus dem 2017 zeigt wie Regierungen bereits bestehende Handlungsfreiräume schon nicht korrekt umsetzt. Viele Jahre später zeigt die [Tagesschau](https://daominds.io/extplenarsitzungeu2017), denselben Sachverhalt. Aber es werden dann lieber mal ein paar weitere Gesetzte auf den Weg gebracht.
+Das [Plenarsitzungsdokuement](https://daominds.io/extplenarsitzungeu2017) aus dem 2017 zeigt wie Regierungen bereits bestehende Handlungsfreiräume schon nicht korrekt umsetzt. Viele Jahre später zeigt die Tagesschau, denselben Sachverhalt. Aber es werden dann lieber mal ein paar weitere Gesetzte auf den Weg gebracht.
 
 Laut eine [Gutachten des europäischen Gerichtshof](https://daominds.io/extgutachteneugerichtshof) aus dem 18. November 2021 scheint die deutsche Vorratsdatensammlung zudem gesetzwidrig, sie wird aber trotzdem praktiziert? Ein [Gutachten des MaxPlanck-Instituts](https://daominds.io/extgutachtenmaxplanck) kommt zum Ergebnis: Im Vergleich der Aufklärungsquoten, die in Deutschland und in der Schweiz im Jahr 2009 erzielt worden sind, lassen sich keine Hinweise darauf ableiten, dass die in der Schweiz seit etwa 10 Jahren praktizierte Vorratsdatenspeicherung zu einer systematisch höheren Aufklärung geführt hätte.
 
