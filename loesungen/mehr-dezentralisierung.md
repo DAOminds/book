@@ -22,7 +22,7 @@ Dezentralisierung bedeutet für viele Menschen viele verschiedene Dinge und wird
 
 Eine Art um sich zu überlegen, was Zentralisierung gerade in Kontext Web und Daten bedeutet könnte, zeigt die nachfolgende Illustration. Zentralisierte Daten führen meiner Ansicht nach auch zu einem eher zentral gefällten Entscheid. Überleg dir einmal, was der Effekt von zentralisierten Daten im Prozess von Daten zu Wissen und schliesslich über Weisheit zu Entscheidungen sein könnte.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>effect of distributed data</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>effect of distributed data</p></figcaption></figure>
 
 Befürworter der Dezentralisierung hoffen, dass diese zu einer egalitäreren Gesellschaft führen wird. Zu einer Gesellschaft, in der die Macht von zentralisierten Entitäten auf eine dezentralisierte Stakeholder übergeht.
 
@@ -76,3 +76,4 @@ Zur Erinnerung, die Gewaltenteilung verhindert die Konzentration der Macht bei e
 * gesetzgebende Gewalt bzw. Gesetzgebung oder Legislative
 * die ausführende oder vollziehende Gewalt oder auch Exekutive
 * die rechtsprechende Gewalt, auch Rechtsprechung oder Judikative genannt
+

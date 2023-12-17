@@ -6,7 +6,7 @@ description: bietet einen Überblick über die Evolution des Internets von web1 
 
 Es gibt sehr viel verschiedene Definitionen, wie sich das Internet entwickelt hat. In dieser Publikation nutze ich die nachfolgende Definition.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>evolution of web</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>evolution of web</p></figcaption></figure>
 
 ### Web1 - Information Economy 1980-2005
 

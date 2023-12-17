@@ -12,6 +12,15 @@ Deine freiwillige Spende ist jederzeit willkommen und ich danke Dir von Herzen d
 
 
 
+
+
+{% hint style="info" %}
+**lightning**\
+`Kaffee > daominds@legend.lnbits.com`
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **bitcoin**\
 ![](<.gitbook/assets/Screenshot 2023-07-12 at 10.21.24 (1).png>) `bc1q8754j09aq0qjd0smcqc0zj3rerxqseykz4a3dq`
