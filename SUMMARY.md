@@ -47,6 +47,7 @@
     * [money and inflation](takeaways/empfehlung-videos/money-and-inflation.md)
     * [the great reset and the rise of bitcoin](takeaways/empfehlung-videos/the-great-reset-and-the-rise-of-bitcoin.md)
     * [blockchain fundamentals](takeaways/empfehlung-videos/blockchain-fundamentals.md)
+    * [god bless bitcoin](takeaways/empfehlung-videos/god-bless-bitcoin.md)
   * [empfehlung links](takeaways/empfehlung-links.md)
   * [verwendete begriffe](takeaways/verwendete-begriffe.md)
   * [referenzen & dank](takeaways/referenzen-and-dank.md)
